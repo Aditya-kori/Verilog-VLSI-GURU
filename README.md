@@ -1,1 +1,0 @@
-# Verilog-VLSI-GURU
