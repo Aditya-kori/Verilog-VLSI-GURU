@@ -1,0 +1,12 @@
+vlog operators.v
+#vsim arithmetic
+#vsim logical
+#vsim relational
+#vsim concatenation
+#vsim bitwise
+#vsim unary
+#vsim shift
+#vsim even_cond
+#vsim case_equality
+vsim replication
+run -all

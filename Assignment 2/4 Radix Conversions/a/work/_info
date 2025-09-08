@@ -1,0 +1,33 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Assignment 2/4 Radix Conversions
+vradix
+!s110 1742984147
+!i10b 1
+!s100 0^U^oS7BS21COV;ZZmDZQ0
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+I91c@J848f5`bzn5z=5`283
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1742984098
+8dec_other.v
+Fdec_other.v
+!i122 0
+L0 1 7
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1742984146.000000
+!s107 dec_other.v|
+!s90 -reportprogress|300|dec_other.v|
+!i113 1
+tCvgOpt 0

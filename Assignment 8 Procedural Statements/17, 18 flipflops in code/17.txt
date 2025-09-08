@@ -1,0 +1,8 @@
+How many flipflops does below code synthesise to?
+	wire a,b,cin;
+	always(@posegde clk) begin
+		{c,s}=a+b+cin;
+	end
+
+
+the above code synthesize to 5 filpflops as s take 4 bits and c take 1 bit.

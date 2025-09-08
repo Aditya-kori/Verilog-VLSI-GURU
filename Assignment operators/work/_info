@@ -1,0 +1,221 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Assignment operators
+varithmetic
+Z1 !s110 1745210023
+!i10b 1
+!s100 6cQTU7cFA4F70al3J`BaO2
+IU3n:mm7eZ8dJ5X?7IR]B12
+R0
+Z2 w1745210016
+Z3 8operators.v
+Z4 Foperators.v
+!i122 16
+L0 1 19
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OV;L;2021.1;73
+r1
+!s85 0
+31
+Z7 !s108 1745210023.000000
+!s107 operators.v|
+Z8 !s90 -reportprogress|300|operators.v|
+!i113 1
+Z9 tCvgOpt 0
+vbitwise
+R1
+!i10b 1
+!s100 dcNk9F3DcO;?H@S1GIMKZ2
+I<e;g`1KQmTGO7`[c[^7HP3
+R0
+R2
+R3
+R4
+!i122 16
+L0 63 19
+R5
+R6
+r1
+!s85 0
+31
+R7
+Z10 !s107 operators.v|
+R8
+!i113 1
+R9
+vcase_equality
+R1
+!i10b 1
+!s100 Z71F:8=>KC^EOXU4TGzGU3
+IkdTjGXWZKEiViZj[JJ3T[2
+R0
+R2
+R3
+R4
+!i122 16
+L0 121 11
+R5
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 1
+R9
+vconcatenation
+R1
+!i10b 1
+!s100 m2UFnL3U?QZdB4VS?QK;J1
+Imdn9e6z`ZnQehIkBcOaW03
+R0
+R2
+R3
+R4
+!i122 16
+L0 51 11
+R5
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 1
+R9
+veven_cond
+R1
+!i10b 1
+!s100 4W:`>Q0ULUXUNHU9ndW6W0
+ISL5ZZW[1YKEYVeO:T_[D_1
+R0
+R2
+R3
+R4
+!i122 16
+L0 110 10
+R5
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 1
+R9
+vlogical
+R1
+!i10b 1
+!s100 KON8:DJnMHY:TK]GH]FZA1
+I0Nm>5d_UTf^n[j70`6>1m0
+R0
+R2
+R3
+R4
+!i122 16
+L0 21 11
+R5
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 1
+R9
+vrelational
+R1
+!i10b 1
+!s100 ^^lN=;PJP^m3=Y?V8F`cL2
+I2h[[Y1cANg2=fR1e]HNad0
+R0
+R2
+R3
+R4
+!i122 16
+L0 33 17
+R5
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 1
+R9
+vreplication
+R1
+!i10b 1
+!s100 Z5X8ieBa7?>7?kBAXdKMQ2
+IP23:;oH<E?>hmKNQeRC<T1
+R0
+R2
+R3
+R4
+!i122 16
+L0 133 9
+R5
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 1
+R9
+vshift
+R1
+!i10b 1
+!s100 WfOCI2fQJ8GQKN`MPFP`m3
+ITDB2RP`CTLQgHb@joI28N1
+R0
+R2
+R3
+R4
+!i122 16
+L0 99 10
+R5
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 1
+R9
+vunary
+R1
+!i10b 1
+!s100 ;Bh?YMOLl?z@P9nlHQf?K3
+IT]8heme1z]a1l[];1IFWZ3
+R0
+R2
+R3
+R4
+!i122 16
+L0 83 15
+R5
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 1
+R9

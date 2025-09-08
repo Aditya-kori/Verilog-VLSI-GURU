@@ -1,0 +1,53 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Assignment 4 Task & function/2 adder
+vadder
+Z1 !s110 1745294992
+!i10b 1
+!s100 _XcONRJA[AdQRI^?9Io8g3
+I?^2;<1AGE>E<VJi>:SKj53
+R0
+w1745294882
+8adder_f.v
+Fadder_f.v
+!i122 18
+L0 1 10
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2021.1;73
+r1
+!s85 0
+31
+Z4 !s108 1745294992.000000
+!s107 adder_f.v|adder_tb.v|
+Z5 !s90 -reportprogress|300|adder_tb.v|
+!i113 1
+Z6 tCvgOpt 0
+vtb
+R1
+!i10b 1
+!s100 ASYL`LRA=FMI3Jon>P:nj3
+I;0c=;5=3jz2LX[Lko[`j62
+R0
+w1745294991
+8adder_tb.v
+Fadder_tb.v
+!i122 18
+L0 2 13
+R2
+R3
+r1
+!s85 0
+31
+R4
+Z7 !s107 adder_f.v|adder_tb.v|
+R5
+!i113 1
+R6

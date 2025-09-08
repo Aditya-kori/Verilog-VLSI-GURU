@@ -1,0 +1,53 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Sampls/Interrupt on priority
+vint
+Z1 !s110 1744709246
+!i10b 1
+!s100 F;mSKHBKPn59_9]QV9<hm2
+Iz9[jBEG9=U66Sh0Mj4M9]2
+R0
+w1744709200
+8int.v
+Fint.v
+!i122 2
+L0 1 10
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2021.1;73
+r1
+!s85 0
+31
+Z4 !s108 1744709246.000000
+!s107 int.v|int_tb.v|
+Z5 !s90 -reportprogress|300|int_tb.v|
+!i113 1
+Z6 tCvgOpt 0
+vtb
+R1
+!i10b 1
+!s100 4:Yh1h7o]0;hQofaAkGU`1
+IQa`i8Kb6@1O<c`N[_54[?0
+R0
+w1744709244
+8int_tb.v
+Fint_tb.v
+!i122 2
+L0 2 11
+R2
+R3
+r1
+!s85 0
+31
+R4
+Z7 !s107 int.v|int_tb.v|
+R5
+!i113 1
+R6

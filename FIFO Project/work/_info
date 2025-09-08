@@ -1,0 +1,74 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/FIFO Project
+vasyn_fifo
+Z1 !s110 1748424893
+!i10b 1
+!s100 AYX87DfTPT01O0PPkgn_O2
+I82]bWT?PRWQ8b[XjU9aU^1
+R0
+w1746705940
+8async_grey_fifo.v
+Fasync_grey_fifo.v
+!i122 51
+L0 1 82
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2021.1;73
+r1
+!s85 0
+31
+Z4 !s108 1748424892.000000
+!s107 async_grey_fifo.v|async_fifo_tb.v|
+Z5 !s90 -reportprogress|300|async_fifo_tb.v|
+!i113 1
+Z6 tCvgOpt 0
+vsyn_fifo
+!s110 1747143889
+!i10b 1
+!s100 VOYcj[6S9AhQeYoiR7^U62
+IiYZ3PhPKT?T6Cf<L0jn[:1
+R0
+w1746533875
+8fifo.v
+Ffifo.v
+!i122 48
+L0 1 60
+R2
+R3
+r1
+!s85 0
+31
+!s108 1747143889.000000
+!s107 fifo.v|fifo_tb.v|
+!s90 -reportprogress|300|fifo_tb.v|
+!i113 1
+R6
+vtb
+R1
+!i10b 1
+!s100 :T1[`2I@K9<zOJ^ZTgOWX0
+I6e_LEC3AjH^d=hNl10W0l3
+R0
+w1747143986
+8async_fifo_tb.v
+Fasync_fifo_tb.v
+!i122 51
+L0 3 93
+R2
+R3
+r1
+!s85 0
+31
+R4
+Z7 !s107 async_grey_fifo.v|async_fifo_tb.v|
+R5
+!i113 1
+R6

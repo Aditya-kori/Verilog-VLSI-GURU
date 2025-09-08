@@ -1,0 +1,33 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Assignment/3 $$display
+vh
+!s110 1742529437
+!i10b 1
+!s100 InDz?G28g3f5NZ69YeNQU0
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+Ij3QG?o>1427HicSHM87in3
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1742529434
+8hello.v
+Fhello.v
+!i122 0
+L0 1 5
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1742529437.000000
+!s107 hello.v|
+!s90 -reportprogress|300|hello.v|
+!i113 1
+tCvgOpt 0

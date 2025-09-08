@@ -1,0 +1,25 @@
+	What is synthesis	
+	Synthesis is the process of translating Verilog code (or any HDL) into a netlist of gates and flip-flops that can be implemented on a physical chip like an FPGA or ASIC.
+	
+
+	10 Synthesizable contructs are
+	1. module endmodule
+	2. assign
+	3. always(@posedge clk)
+	4. if else
+	5. case statements
+	6. reg
+	7. wire
+	8. Arithmetic operations
+	9. concatenation
+	10. Bit wise operators
+
+	10 non synthesizable constructs are
+	1. initial 
+	2. #delay
+	3. forever
+	4. $display
+	5. $monitor
+	6. Events
+	7. $finish, $stop
+	8. repeat

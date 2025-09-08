@@ -1,0 +1,15 @@
+	Always block
+	a. if sensitivity list has posedge or negedge, then use non-blocking assignments
+	b.if sensitivity list doesn't have posedge or negedge, then use blocking assignments
+	justify these two statements
+
+	a. These constructs represent sequential logic — i.e., flip-flops or registers.
+	ex. 	always @(posedge clk) begin
+		  q <= d;
+		end
+
+	b. These represent combinational logic
+	ex.	always @(*) begin
+  		   y = a & b;
+		end
+

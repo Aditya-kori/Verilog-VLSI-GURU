@@ -1,0 +1,178 @@
+# Reading pref.tcl
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:58:12 on Mar 26,2025
+# vlog -reportprogress 300 oct_other.v 
+# -- Compiling module radix
+# ** Warning: oct_other.v(5): (vlog-2643) Unterminated string literal continues onto next line.
+# ** Error: oct_other.v(8): Unterminated string literal started on line 5.
+# ** Error: (vlog-13069) oct_other.v(8): near "EOF": syntax error, unexpected end of source code, expecting ')' or ','.
+# End time: 15:58:12 on Mar 26,2025, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 1
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog oct_other.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:58:48 on Mar 26,2025
+# vlog -reportprogress 300 oct_other.v 
+# -- Compiling module radix
+# 
+# Top level modules:
+# 	radix
+# End time: 15:58:48 on Mar 26,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim radix 
+# Start time: 15:58:48 on Mar 26,2025
+# Loading work.radix
+# Octal a=45632
+#  Hexadecimal a=4b9a
+#  
+quit -sim
+# End time: 16:00:21 on Mar 26,2025, Elapsed time: 0:01:33
+# Errors: 0, Warnings: 0
+cd {D:\VLSI GURU\Assignment 2\4 Radix Conversions\d}
+do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:01:56 on Mar 26,2025
+# vlog -reportprogress 300 dec_other.v 
+# -- Compiling module radix
+# ** Error: (vlog-13057) dec_other.v(4): Expecting numeric digits.
+# End time: 16:01:56 on Mar 26,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog dec_other.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:02:32 on Mar 26,2025
+# vlog -reportprogress 300 dec_other.v 
+# -- Compiling module radix
+# 
+# Top level modules:
+# 	radix
+# End time: 16:02:32 on Mar 26,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim radix 
+# Start time: 16:02:32 on Mar 26,2025
+# Loading work.radix
+# Octal a=176431
+#  Hexadecimal a=fd19
+#  Decimal a=64793
+#  Binary a=1111110100011001
+# 
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:03:18 on Mar 26,2025
+# vlog -reportprogress 300 dec_other.v 
+# -- Compiling module radix
+# 
+# Top level modules:
+# 	radix
+# End time: 16:03:19 on Mar 26,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# End time: 16:03:21 on Mar 26,2025, Elapsed time: 0:00:49
+# Errors: 0, Warnings: 0
+# vsim radix 
+# Start time: 16:03:21 on Mar 26,2025
+# Loading work.radix
+# Octal a=176431
+#  Hexadecimal a=fd19
+#  Decimal a=64793
+#  Binary a=1111110100011001
+# 
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:08:17 on Mar 26,2025
+# vlog -reportprogress 300 dec_other.v 
+# -- Compiling module radix
+# ** Warning: dec_other.v(2): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+# 
+# Top level modules:
+# 	radix
+# End time: 16:08:18 on Mar 26,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 1
+# End time: 16:08:19 on Mar 26,2025, Elapsed time: 0:04:58
+# Errors: 0, Warnings: 0
+# vsim radix 
+# Start time: 16:08:19 on Mar 26,2025
+# Loading work.radix
+# Octal a=176431
+#  Hexadecimal a=fd19
+#  Decimal a=64793
+#  Binary a=1111110100011001
+# 
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:08:55 on Mar 26,2025
+# vlog -reportprogress 300 dec_other.v 
+# -- Compiling module radix
+# 
+# Top level modules:
+# 	radix
+# End time: 16:08:55 on Mar 26,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 16:08:56 on Mar 26,2025, Elapsed time: 0:00:37
+# Errors: 0, Warnings: 0
+# vsim radix 
+# Start time: 16:08:56 on Mar 26,2025
+# Loading work.radix
+# Octal a=176431
+#  Hexadecimal a=fd19
+#  Decimal a=  -743
+#  Binary a=1111110100011001
+# 
+quit -sim
+# End time: 16:13:32 on Mar 26,2025, Elapsed time: 0:04:36
+# Errors: 0, Warnings: 0
+cd {D:\VLSI GURU\Assignment 2\4 Radix Conversions\e}
+do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:13:42 on Mar 26,2025
+# vlog -reportprogress 300 hex_other.v 
+# -- Compiling module radix
+# 
+# Top level modules:
+# 	radix
+# End time: 16:13:42 on Mar 26,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim radix 
+# Start time: 16:13:42 on Mar 26,2025
+# Loading work.radix
+# Octal a=14xXZz
+#  Hexadecimal a=cxdz
+#  Decimal a=    X
+#  Binary a=1100xxxx1101zzzz
+# 
+quit -sim
+# End time: 16:16:38 on Mar 26,2025, Elapsed time: 0:02:56
+# Errors: 0, Warnings: 0
+cd {D:\VLSI GURU\Assignment 2\4 Radix Conversions\f}
+do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:16:50 on Mar 26,2025
+# vlog -reportprogress 300 oct_other.v 
+# -- Compiling module radix
+# 
+# Top level modules:
+# 	radix
+# End time: 16:16:50 on Mar 26,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim radix 
+# Start time: 16:16:50 on Mar 26,2025
+# Loading work.radix
+# Octal a=14xxzz
+#  binary a=1100xxxxxxzzzzzz
+#  
+# End time: 16:51:09 on Mar 26,2025, Elapsed time: 0:34:19
+# Errors: 0, Warnings: 0

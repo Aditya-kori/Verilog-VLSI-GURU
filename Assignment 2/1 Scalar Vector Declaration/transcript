@@ -1,0 +1,147 @@
+# Reading pref.tcl
+do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:52:04 on Mar 26,2025
+# vlog -reportprogress 300 vectors.v 
+# -- Compiling module vectors
+# 
+# Top level modules:
+# 	vectors
+# End time: 14:52:04 on Mar 26,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim vectors 
+# Start time: 14:52:04 on Mar 26,2025
+# Loading work.vectors
+# valid=z, addr=x, wdata=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx, rdata=zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz, write_data=zzzzzzzz
+# A time value could not be extracted from the current line
+# A time value could not be extracted from the current line
+quit -sim
+# End time: 15:06:16 on Mar 26,2025, Elapsed time: 0:14:12
+# Errors: 0, Warnings: 0
+cd {D:\VLSI GURU\Assignment 2\2}
+do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:06:33 on Mar 26,2025
+# vlog -reportprogress 300 vec_vec_assign.v 
+# -- Compiling module v_v
+# 
+# Top level modules:
+# 	v_v
+# End time: 15:06:33 on Mar 26,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim v_v 
+# Start time: 15:06:33 on Mar 26,2025
+# Loading work.v_v
+# a=100000, b=100000
+cd {D:\VLSI GURU\Assignment 2\2\b}
+# Cannot change directory while a simulation is in progress.
+# Use the "quit -sim" command to unload the design first.
+quit -sim
+# End time: 15:12:49 on Mar 26,2025, Elapsed time: 0:06:16
+# Errors: 0, Warnings: 0
+cd {D:\VLSI GURU\Assignment 2\2\b}
+do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:13:03 on Mar 26,2025
+# vlog -reportprogress 300 vec_vec_LGR.v 
+# ** Error: (vlog-7) Failed to open design unit file "vec_vec_LGR.v" in read mode.
+# No such file or directory. (errno = ENOENT)
+# End time: 15:13:03 on Mar 26,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog vec_vec_LGR.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:13:35 on Mar 26,2025
+# vlog -reportprogress 300 v_v_LGR.v 
+# -- Compiling module v_v
+# 
+# Top level modules:
+# 	v_v
+# End time: 15:13:36 on Mar 26,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vsim v_v 
+# Start time: 15:13:36 on Mar 26,2025
+# Loading work.v_v
+# a=001111001, b=111001
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:16:52 on Mar 26,2025
+# vlog -reportprogress 300 v_v_LGR.v 
+# -- Compiling module v_v
+# 
+# Top level modules:
+# 	v_v
+# End time: 15:16:52 on Mar 26,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:16:55 on Mar 26,2025, Elapsed time: 0:03:19
+# Errors: 0, Warnings: 0
+# vsim v_v 
+# Start time: 15:16:55 on Mar 26,2025
+# Loading work.v_v
+# a=000xxxxxx, b=xxxxxx
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:17:17 on Mar 26,2025
+# vlog -reportprogress 300 v_v_LGR.v 
+# -- Compiling module v_v
+# 
+# Top level modules:
+# 	v_v
+# End time: 15:17:17 on Mar 26,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:17:18 on Mar 26,2025, Elapsed time: 0:00:23
+# Errors: 0, Warnings: 0
+# vsim v_v 
+# Start time: 15:17:18 on Mar 26,2025
+# Loading work.v_v
+# a=000111001, b=111001
+quit -sim
+# End time: 15:25:16 on Mar 26,2025, Elapsed time: 0:07:58
+# Errors: 0, Warnings: 0
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:25:28 on Mar 26,2025
+# vlog -reportprogress 300 v_v_LGR.v 
+# -- Compiling module v_v
+# 
+# Top level modules:
+# 	v_v
+# End time: 15:25:28 on Mar 26,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim v_v 
+# Start time: 15:25:28 on Mar 26,2025
+# Loading work.v_v
+# a=000111001, b=111001
+cd {D:\VLSI GURU\Assignment 2\2\c}
+# Cannot change directory while a simulation is in progress.
+# Use the "quit -sim" command to unload the design first.
+quit sim
+# unknown switch: sim
+quit -sim
+# End time: 15:26:07 on Mar 26,2025, Elapsed time: 0:00:39
+# Errors: 0, Warnings: 0
+cd {D:\VLSI GURU\Assignment 2\2\c}
+do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:26:17 on Mar 26,2025
+# vlog -reportprogress 300 v_v_LSR.v 
+# -- Compiling module v_v
+# 
+# Top level modules:
+# 	v_v
+# End time: 15:26:17 on Mar 26,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim v_v 
+# Start time: 15:26:17 on Mar 26,2025
+# Loading work.v_v
+# a=001011, b=00001011
+# End time: 15:29:04 on Mar 26,2025, Elapsed time: 0:02:47
+# Errors: 0, Warnings: 0

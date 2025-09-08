@@ -1,0 +1,32 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Assignment 8 Procedural Statements/12 Comb block and Non Block
+vtb
+!s110 1747216546
+!i10b 1
+!s100 Xg_1YD23;>B0oM@8Ka^GC3
+INb0DEk>k9U28f?3no7QTJ3
+R0
+w1747216544
+8non_block.v
+Fnon_block.v
+!i122 5
+L0 1 24
+VDg1SIo80bB@j0V0VzS_@n1
+OV;L;2021.1;73
+r1
+!s85 0
+31
+!s108 1747216546.000000
+!s107 non_block.v|
+!s90 -reportprogress|300|non_block.v|
+!i113 1
+tCvgOpt 0

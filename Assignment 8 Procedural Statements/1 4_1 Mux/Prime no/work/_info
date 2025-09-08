@@ -1,0 +1,53 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Sampls/Prime number gen
+vprime
+!s110 1744449398
+!i10b 1
+!s100 =j6hRo<1RI^38bfRaHP7@1
+IJ9M]8XbbEWTJGgE]^GIUI2
+R0
+w1744449395
+Z1 8prime.v
+Z2 Fprime.v
+!i122 3
+L0 1 20
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OV;L;2021.1;73
+r1
+!s85 0
+31
+!s108 1744449398.000000
+!s107 prime.v|
+Z5 !s90 -reportprogress|300|prime.v|
+!i113 1
+Z6 tCvgOpt 0
+vprime_num
+!s110 1747130992
+!i10b 1
+!s100 `kkRjniJfNoW3dRPi6Qk>0
+IEBlK[oeLD5n8j:l]b7`7W3
+dD:/VLSI GURU/Assignment 8 Procedural Statements/1 4_1 Mux/Prime no
+w1747130990
+R1
+R2
+!i122 7
+L0 1 21
+R3
+R4
+r1
+!s85 0
+31
+!s108 1747130992.000000
+Z7 !s107 prime.v|
+R5
+!i113 1
+R6

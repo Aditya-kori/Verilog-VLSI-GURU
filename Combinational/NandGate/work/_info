@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Combinational/NandGate
+vNandGate
+Z1 !s110 1742272852
+!i10b 1
+!s100 >mh65mScb@<NUA61JI63:0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Id;WXX:n2b@>E3BQli@A931
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1742271646
+8NandGate.v
+FNandGate.v
+!i122 0
+L0 1 7
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1742272852.000000
+!s107 NandGate.v|NandGatetb.v|
+Z6 !s90 -reportprogress|300|NandGatetb.v|
+!i113 1
+Z7 tCvgOpt 0
+n@nand@gate
+vNandGatetb
+R1
+!i10b 1
+!s100 Y@jDANfY?V2Yk^f:?:m4=1
+R2
+II_Oe`^<>c]mg<c5@W[zhc1
+R3
+R0
+w1742271784
+8NandGatetb.v
+FNandGatetb.v
+!i122 0
+L0 2 12
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 NandGate.v|NandGatetb.v|
+R6
+!i113 1
+R7
+n@nand@gatetb

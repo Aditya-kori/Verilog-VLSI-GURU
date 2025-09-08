@@ -1,0 +1,33 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Assignment 2/2
+vv_v
+!s110 1742981793
+!i10b 1
+!s100 D4DJ>lm9@S>enVk30ZPC:2
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+IHhU99kGM[NA?9C:z7ZC2g0
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1742981705
+8vec_vec_assign.v
+Fvec_vec_assign.v
+!i122 0
+L0 1 9
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1742981793.000000
+!s107 vec_vec_assign.v|
+!s90 -reportprogress|300|vec_vec_assign.v|
+!i113 1
+tCvgOpt 0

@@ -1,0 +1,17 @@
+What is race condition? using an example
+	A race condition occurs when two or more processes (typically initial or always blocks) attempt to read or write the same variable at the same simulation time, and the final value depends on which process executes first.
+	Since Verilog is event-driven and simulation order is not always guaranteed, this leads to unpredictable results.
+
+module tb;
+integer a,b;
+initial begin
+a=10;
+b=20;
+end
+initial begin
+a=b;
+end
+initial begin
+b=a;
+end
+endmodule

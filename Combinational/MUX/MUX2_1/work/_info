@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Combinational/MUX/MUX2_1
+vMux2_1
+Z1 !s110 1742311174
+!i10b 1
+!s100 AEPV54meaVmWLLZQRVj;T0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I0n<CiWzJ=_fz1?FFaQ0^^3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1742310882
+8Mux2_1.v
+FMux2_1.v
+!i122 5
+L0 1 13
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1742311174.000000
+!s107 Mux2_1.v|Mux2_1tb.v|
+Z6 !s90 -reportprogress|300|Mux2_1tb.v|
+!i113 1
+Z7 tCvgOpt 0
+n@mux2_1
+vMux2_1tb
+R1
+!i10b 1
+!s100 mTT^87Hoo`bGJVMmRdkGG0
+R2
+I=NC804R[80aCD]PV[;W3S2
+R3
+R0
+w1742311171
+8Mux2_1tb.v
+FMux2_1tb.v
+!i122 5
+L0 2 16
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 Mux2_1.v|Mux2_1tb.v|
+R6
+!i113 1
+R7
+n@mux2_1tb

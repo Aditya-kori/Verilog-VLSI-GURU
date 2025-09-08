@@ -1,0 +1,33 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/VLSI GURU/Assign-4-task,function/Q7-factorial_u_recursive_func
+vfact_func
+!s110 1744930864
+!i10b 1
+!s100 =[DAXR1Uo;F^85SUefHJ?1
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+IQRG?0OaV1]9Ga9kdFCHTf2
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1744929749
+8fact_func.v
+Ffact_func.v
+!i122 14
+L0 9 18
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1744930864.000000
+!s107 fact_func.v|
+!s90 -reportprogress|300|fact_func.v|
+!i113 1
+tCvgOpt 0

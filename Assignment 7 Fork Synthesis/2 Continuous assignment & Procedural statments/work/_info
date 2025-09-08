@@ -1,0 +1,74 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Assignment 7 Fork Synthesis/2 Continuous assignment & Procedural statments
+vfa
+!s110 1746419269
+!i10b 1
+!s100 dY0C1A^KX`Z]hV8<=UnYJ3
+I60cWMmTSa0fK^i1o909C:0
+R0
+w1746418992
+8fa.v
+Ffa.v
+!i122 0
+Z1 L0 1 5
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2021.1;73
+r1
+!s85 0
+31
+!s108 1746419269.000000
+!s107 fa.v|fa_tb.v|
+!s90 -reportprogress|300|fa_tb.v|
+!i113 1
+Z4 tCvgOpt 0
+vmux
+!s110 1746510884
+!i10b 1
+!s100 T<hV4DZJN0JnB9aen<UYZ1
+I6j5eF5zbnBdE3`IRk>F=^2
+R0
+w1746422038
+8mux_21.v
+Fmux_21.v
+!i122 4
+R1
+R2
+R3
+r1
+!s85 0
+31
+!s108 1746510884.000000
+!s107 mux_21.v|mux_tb.v|
+!s90 -reportprogress|300|mux_tb.v|
+!i113 1
+R4
+vtb
+!s110 1746706675
+!i10b 1
+!s100 =jiNZOPob6SfV_cY8eYN=0
+IzWQdnN7V3h?iHnzh:NKTd2
+R0
+w1746706672
+8fork_join.v
+Ffork_join.v
+!i122 9
+L0 1 10
+R2
+R3
+r1
+!s85 0
+31
+!s108 1746706675.000000
+!s107 fork_join.v|
+!s90 -reportprogress|300|fork_join.v|
+!i113 1
+R4

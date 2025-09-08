@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Combinational/HalfAdder
+vha
+!s110 1742379502
+!i10b 1
+!s100 JS5X=NK@0]SGIU2]7n0^f0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I2:=[oXMFZ>@K^0Q6nmBDK1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1742378204
+8ha.v
+Fha.v
+!i122 2
+L0 1 6
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1742379502.000000
+!s107 ha.v|
+!s90 -reportprogress|300|ha.v|
+!i113 1
+Z4 tCvgOpt 0
+vha_tb
+!s110 1742379294
+!i10b 1
+!s100 lkKKLY1B8Qk_9M[laXJ^41
+R1
+Io@jKSXVCGZ4mS^ig:eEhY0
+R2
+R0
+w1742379192
+8ha_tb.v
+Fha_tb.v
+!i122 1
+L0 2 12
+R3
+r1
+!s85 0
+31
+!s108 1742379294.000000
+!s107 ha.v|ha_tb.v|
+!s90 -reportprogress|300|ha_tb.v|
+!i113 1
+R4

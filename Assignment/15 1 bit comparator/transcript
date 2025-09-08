@@ -1,0 +1,151 @@
+# Reading pref.tcl
+do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:59:01 on Mar 22,2025
+# vlog -reportprogress 300 comp_1bittb.v 
+# -- Compiling module comparator
+# ** Error: (vlog-13069) ** while parsing file included at comp_1bittb.v(1)
+# ** at comp_1bit.v(9): near "end": syntax error, unexpected end, expecting ';'.
+# ** Error: comp_1bittb.v(3): Port mode is incompatible with declaration: a
+# ** Error: comp_1bittb.v(3): Port mode is incompatible with declaration: b
+# ** Error: comp_1bittb.v(3): Declarations not allowed in unnamed block.
+# ** Error: comp_1bittb.v(4): Illegal declaration after the statement near line '6'.  Declarations must precede statements.  Look for stray semicolons.
+# ** Error: comp_1bittb.v(5): Checker 'comparator' not found.  Instantiation 'dut' must be of a visible checker.
+# 
+# ** Error: (vlog-13069) comp_1bittb.v(6): near "initial": syntax error, unexpected initial.
+# ** Error: comp_1bittb.v(5): A begin/end block was found with an empty body.  This is permitted in SystemVerilog, but not permitted in Verilog.  Please look for any stray semicolons.
+# ** Warning: comp_1bittb.v(11): (vlog-2283) Extra semicolon in $unit (global) scope.
+# ** Warning: comp_1bittb.v(12): (vlog-2284) Empty $unit scope found.
+# End time: 15:59:01 on Mar 22,2025, Elapsed time: 0:00:00
+# Errors: 8, Warnings: 2
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog comp_1bittb.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:59:56 on Mar 22,2025
+# vlog -reportprogress 300 comp_1bittb.v 
+# -- Compiling module comparator
+# -- Compiling module comp_1bittb
+# ** Warning: comp_1bittb.v(11): (vlog-2283) Extra semicolon in $unit (global) scope.
+# ** Warning: comp_1bittb.v(12): (vlog-2284) Empty $unit scope found.
+# -- Compiling package comp_1bittb_v_unit
+# 
+# Top level modules:
+# 	comp_1bittb
+# End time: 15:59:56 on Mar 22,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 2
+# vsim comp_1bittb 
+# Start time: 15:59:56 on Mar 22,2025
+# Loading work.comp_1bittb
+# Loading work.comparator
+# a=0 b=0 y1=0 y2=0 y31
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:00:45 on Mar 22,2025
+# vlog -reportprogress 300 comp_1bittb.v 
+# -- Compiling module comparator
+# -- Compiling module comp_1bittb
+# 
+# Top level modules:
+# 	comp_1bittb
+# End time: 16:00:45 on Mar 22,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 16:00:47 on Mar 22,2025, Elapsed time: 0:00:51
+# Errors: 0, Warnings: 0
+# vsim comp_1bittb 
+# Start time: 16:00:47 on Mar 22,2025
+# Loading work.comp_1bittb
+# Loading work.comparator
+# a=0 b=0 y1=0 y2=0 y3=1
+# a=0 b=1 y1=0 y2=1 y3=0
+# a=0 b=1 y1=0 y2=1 y3=0
+# a=1 b=1 y1=0 y2=0 y3=1
+# a=0 b=1 y1=0 y2=1 y3=0
+# a=0 b=1 y1=0 y2=1 y3=0
+# a=0 b=1 y1=0 y2=1 y3=0
+# a=1 b=0 y1=1 y2=0 y3=0
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:01:40 on Mar 22,2025
+# vlog -reportprogress 300 comp_1bittb.v 
+# -- Compiling module comparator
+# -- Compiling module comp_1bittb
+# 
+# Top level modules:
+# 	comp_1bittb
+# End time: 16:01:40 on Mar 22,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 16:01:41 on Mar 22,2025, Elapsed time: 0:00:54
+# Errors: 0, Warnings: 0
+# vsim comp_1bittb 
+# Start time: 16:01:41 on Mar 22,2025
+# Loading work.comp_1bittb
+# Loading work.comparator
+# a=0 b=0 (a>b)=0 (a<b)=0 (a=b)=1
+# a=0 b=1 (a>b)=0 (a<b)=1 (a=b)=0
+# a=0 b=1 (a>b)=0 (a<b)=1 (a=b)=0
+# a=1 b=1 (a>b)=0 (a<b)=0 (a=b)=1
+# a=0 b=1 (a>b)=0 (a<b)=1 (a=b)=0
+# a=0 b=1 (a>b)=0 (a<b)=1 (a=b)=0
+# a=0 b=1 (a>b)=0 (a<b)=1 (a=b)=0
+# a=1 b=0 (a>b)=1 (a<b)=0 (a=b)=0
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:08:40 on Mar 22,2025
+# vlog -reportprogress 300 comp_1bittb.v 
+# -- Compiling module comparator
+# -- Compiling module comp_1bittb
+# 
+# Top level modules:
+# 	comp_1bittb
+# End time: 16:08:40 on Mar 22,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 16:08:41 on Mar 22,2025, Elapsed time: 0:07:00
+# Errors: 0, Warnings: 0
+# vsim comp_1bittb 
+# Start time: 16:08:41 on Mar 22,2025
+# Loading work.comp_1bittb
+# Loading work.comparator
+# a=0 b=0 (a>b)=0 (a<b)=0 (a=b)=1
+# a=0 b=1 (a>b)=0 (a<b)=1 (a=b)=0
+# a=0 b=1 (a>b)=0 (a<b)=1 (a=b)=0
+# a=1 b=1 (a>b)=0 (a<b)=0 (a=b)=1
+# a=0 b=1 (a>b)=0 (a<b)=1 (a=b)=0
+# a=0 b=1 (a>b)=0 (a<b)=1 (a=b)=0
+# a=0 b=1 (a>b)=0 (a<b)=1 (a=b)=0
+# a=1 b=0 (a>b)=1 (a<b)=0 (a=b)=0
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:16:33 on Mar 22,2025
+# vlog -reportprogress 300 comp_1bittb.v 
+# -- Compiling module comparator
+# -- Compiling module comp_1bittb
+# 
+# Top level modules:
+# 	comp_1bittb
+# End time: 16:16:33 on Mar 22,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 16:16:34 on Mar 22,2025, Elapsed time: 0:07:53
+# Errors: 0, Warnings: 0
+# vsim comp_1bittb 
+# Start time: 16:16:34 on Mar 22,2025
+# Loading work.comp_1bittb
+# Loading work.comparator
+# a=0 b=0 (a>b)=0 (a<b)=0 (a=b)=1
+# a=0 b=1 (a>b)=0 (a<b)=1 (a=b)=0
+# a=0 b=1 (a>b)=0 (a<b)=1 (a=b)=0
+# a=1 b=1 (a>b)=0 (a<b)=0 (a=b)=1
+# a=0 b=1 (a>b)=0 (a<b)=1 (a=b)=0
+# a=0 b=1 (a>b)=0 (a<b)=1 (a=b)=0
+# a=0 b=1 (a>b)=0 (a<b)=1 (a=b)=0
+# a=1 b=0 (a>b)=1 (a<b)=0 (a=b)=0
+# End time: 16:31:48 on Mar 22,2025, Elapsed time: 0:15:14
+# Errors: 0, Warnings: 0

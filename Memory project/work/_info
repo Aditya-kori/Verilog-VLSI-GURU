@@ -1,0 +1,53 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Memory project
+vmemory
+Z1 !s110 1747104112
+!i10b 1
+!s100 6bbVkbAKc;Pk>=Qm3C;jW1
+I@[JFPc=<=Y0OX6]5fB3U82
+R0
+w1746193881
+8memory.v
+Fmemory.v
+!i122 48
+L0 1 29
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2021.1;73
+r1
+!s85 0
+31
+Z4 !s108 1747104112.000000
+!s107 memory.v|mem_tc_tb.v|
+Z5 !s90 -reportprogress|300|mem_tc_tb.v|
+!i113 1
+Z6 tCvgOpt 0
+vtb
+R1
+!i10b 1
+!s100 e:_XQE@GiRZ`]M`<85SPC0
+IV?@TPCh5K0ANiEVacC=Bn2
+R0
+w1746421846
+8mem_tc_tb.v
+Fmem_tc_tb.v
+!i122 48
+L0 2 139
+R2
+R3
+r1
+!s85 0
+31
+R4
+Z7 !s107 memory.v|mem_tc_tb.v|
+R5
+!i113 1
+R6

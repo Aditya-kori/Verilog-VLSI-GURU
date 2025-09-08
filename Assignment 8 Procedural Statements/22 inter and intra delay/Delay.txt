@@ -1,0 +1,15 @@
+	a. What is the difference between inter delay and intra delay statement
+
+	An inter-delay (also known as a regular delay) specifies the delay on the left-hand side of the assignment, meaning the entire statement is executed after the delay. 
+	An intra-delay (or delay on the right-hand side) specifies the delay on the right-hand side, meaning the right-hand side expression is evaluated immediately, but the assignment of that value to the left-hand side is delayed. 
+
+	b. Why these concepts are not applicable to RTL design?
+	These concepts are not applicable bcoz they are non synthsizable, meaning that they can't be converted as actual hardware.
+
+	d. Write an example of inter delay statement code?
+	#5 a=b+c;
+
+	e. Write an example of intra delay statement code?
+	a= #5 b;
+
+	

@@ -1,0 +1,9 @@
+what is compiler directives?
+
+Compiler directives are special instructions, indicated by a grave accent (`) character, that control how the compiler processes the code. These directives are used to manage the compilation process, define macros, include files, and conditionally compile sections of code, among other tasks.
+
+List down various compiler directives and their significance
+define: Defines macros, allowing for text substitution during compilation. 
+include: Inserts the contents of another file into the current file. 
+ifdef, ifndef, elsif, else, endif: Enable conditional compilation, allowing the inclusion or exclusion of code based on defined macros. 
+timescale: Sets the time unit and precision for simulation. 

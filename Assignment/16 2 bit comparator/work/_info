@@ -1,0 +1,77 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Assignment/16 2 bit comparator
+vcomp_2bit
+Z1 !s110 1742654562
+!i10b 1
+!s100 iXDiFil>l=gn7QdaQLOQ12
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I6HTOPeZZB`lAP0Cc6?S]E2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1742654547
+8comp_2bit_gate.v
+Fcomp_2bit_gate.v
+!i122 12
+L0 2 11
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1742654562.000000
+!s107 comp_1bit_gate.v|comp_2bit_gate.v|comp_2bittb.v|
+Z6 !s90 -reportprogress|300|comp_2bittb.v|
+!i113 1
+Z7 tCvgOpt 0
+vcomp_2bittb
+R1
+!i10b 1
+!s100 bCGzCI8[0fW>Hkna2>0LK0
+R2
+I=QcPTFU2JXDC@ReL]_M=n2
+R3
+R0
+w1742654501
+8comp_2bittb.v
+Fcomp_2bittb.v
+!i122 12
+L0 4 16
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 comp_1bit_gate.v|comp_2bit_gate.v|comp_2bittb.v|
+R6
+!i113 1
+R7
+vcomparator
+R1
+!i10b 1
+!s100 iCnScD9IMVi;Lm7W<m<oT3
+R2
+I6ZNT:UnScSoXC?F7h[=3W1
+R3
+R0
+w1742640438
+8comp_1bit_gate.v
+Fcomp_1bit_gate.v
+!i122 12
+L0 1 12
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7

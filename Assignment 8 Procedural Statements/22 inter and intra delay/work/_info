@@ -1,0 +1,32 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Assignment 8 Procedural Statements/22 inter and intra delay
+vdelay
+!s110 1747283547
+!i10b 1
+!s100 bmFX6l_oM^5[g5o;C61^11
+I=BOXO^iJLZ8Ng=3EP<I1G1
+R0
+w1747283523
+8delay.v
+Fdelay.v
+!i122 0
+L0 1 15
+VDg1SIo80bB@j0V0VzS_@n1
+OV;L;2021.1;73
+r1
+!s85 0
+31
+!s108 1747283547.000000
+!s107 delay.v|
+!s90 -reportprogress|300|delay.v|
+!i113 1
+tCvgOpt 0

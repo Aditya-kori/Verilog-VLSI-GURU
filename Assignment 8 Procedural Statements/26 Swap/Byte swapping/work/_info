@@ -1,0 +1,32 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Sampls/Byte swapping
+vtb
+!s110 1744692389
+!i10b 1
+!s100 DK:9J>H_kTU6b[5MX=P=22
+IiET28WiUj_>^g;>dK1Wcz3
+R0
+w1744692314
+8byte_swap.v
+Fbyte_swap.v
+!i122 0
+L0 1 14
+VDg1SIo80bB@j0V0VzS_@n1
+OV;L;2021.1;73
+r1
+!s85 0
+31
+!s108 1744692389.000000
+!s107 byte_swap.v|
+!s90 -reportprogress|300|byte_swap.v|
+!i113 1
+tCvgOpt 0

@@ -1,0 +1,1479 @@
+# Reading pref.tcl
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:16:23 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:16:23 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:16:23 on Mar 28,2025
+# Loading work.random
+# a=2138988031
+# a=2138988031
+# a=2138988031
+# a=2138988031
+# a=2138988031
+# a=2138988031
+# a=2138988031
+# a=2138988031
+# a=2138988031
+# a=2138988031
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:17:08 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:17:08 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:17:08 on Mar 28,2025, Elapsed time: 0:00:45
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:17:08 on Mar 28,2025
+# Loading work.random
+# a=         1
+# a=         1
+# a=         1
+# a=         1
+# a=         1
+# a=         1
+# a=         1
+# a=         1
+# a=         1
+# a=         1
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:19:28 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:19:28 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:19:29 on Mar 28,2025, Elapsed time: 0:02:21
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:19:29 on Mar 28,2025
+# Loading work.random
+# a=         0
+# a=         0
+# a=         0
+# a=         0
+# a=         0
+# a=         0
+# a=         0
+# a=         0
+# a=         0
+# a=         0
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:21:48 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:21:48 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:21:49 on Mar 28,2025, Elapsed time: 0:02:20
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:21:49 on Mar 28,2025
+# Loading work.random
+# a=2062252022
+# a= 577413444
+# a=1729470927
+# a=1223542674
+# a=1122271622
+# a=1350003104
+# a= 435557172
+# a=1595926975
+# a=1240566163
+# a=  36919556
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:22:33 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:22:33 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:22:33 on Mar 28,2025, Elapsed time: 0:00:44
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:22:33 on Mar 28,2025
+# Loading work.random
+# a=         1
+# a=         0
+# a=         0
+# a=         0
+# a=         0
+# a=         0
+# a=         0
+# a=         0
+# a=         0
+# a=         0
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:23:09 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:23:09 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:23:10 on Mar 28,2025, Elapsed time: 0:00:37
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:23:10 on Mar 28,2025
+# Loading work.random
+# a=         0
+# a=         3
+# a=         3
+# a=         3
+# a=         3
+# a=         3
+# a=         3
+# a=         3
+# a=         3
+# a=         3
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:23:24 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# ** Error (suppressible): random_gen.v(8): (vlog-2122) Invalid format specification '%r'.
+# End time: 15:23:24 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog random_gen.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:24:02 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:24:03 on Mar 28,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# End time: 15:24:03 on Mar 28,2025, Elapsed time: 0:00:53
+# Errors: 1, Warnings: 0
+# vsim random 
+# Start time: 15:24:03 on Mar 28,2025
+# Loading work.random
+# a=0.000000e+00
+# a=3.300000e+00
+# a=3.300000e+00
+# a=3.300000e+00
+# a=3.300000e+00
+# a=3.300000e+00
+# a=3.300000e+00
+# a=3.300000e+00
+# a=3.300000e+00
+# a=3.300000e+00
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:24:34 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# ** Error: (vlog-13069) random_gen.v(6): near ";": syntax error, unexpected ';'.
+# End time: 15:24:34 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog random_gen.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:24:46 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:24:46 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:24:47 on Mar 28,2025, Elapsed time: 0:00:44
+# Errors: 1, Warnings: 0
+# vsim random 
+# Start time: 15:24:47 on Mar 28,2025
+# Loading work.random
+# a=1.000000e+00
+# a=0.000000e+00
+# a=0.000000e+00
+# a=0.000000e+00
+# a=0.000000e+00
+# a=0.000000e+00
+# a=0.000000e+00
+# a=0.000000e+00
+# a=0.000000e+00
+# a=0.000000e+00
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:25:09 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:25:09 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:25:09 on Mar 28,2025, Elapsed time: 0:00:22
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:25:10 on Mar 28,2025
+# Loading work.random
+# a=2.062252e+09
+# a=5.774134e+08
+# a=1.729471e+09
+# a=1.223543e+09
+# a=1.122272e+09
+# a=1.350003e+09
+# a=4.355572e+08
+# a=1.595927e+09
+# a=1.240566e+09
+# a=3.691956e+07
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:26:17 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:26:17 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:26:19 on Mar 28,2025, Elapsed time: 0:01:09
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:26:19 on Mar 28,2025
+# Loading work.random
+# a=1.837569e+00
+# a=5.145040e-01
+# a=1.541044e+00
+# a=1.090237e+00
+# a=9.999997e-01
+# a=1.202920e+00
+# a=3.881030e-01
+# a=1.422050e+00
+# a=1.105406e+00
+# a=3.289716e-02
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:26:39 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:26:39 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:26:40 on Mar 28,2025, Elapsed time: 0:00:21
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:26:40 on Mar 28,2025
+# Loading work.random
+# a=1.837569e+00
+# a=5.145040e-01
+# a=1.541044e+00
+# a=1.090237e+00
+# a=9.999997e-01
+# a=1.202920e+00
+# a=3.881030e-01
+# a=1.422050e+00
+# a=1.105406e+00
+# a=3.289716e-02
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:26:58 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:26:58 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:26:59 on Mar 28,2025, Elapsed time: 0:00:19
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:26:59 on Mar 28,2025
+# Loading work.random
+# a=1.837569e+00
+# a=5.145040e-01
+# a=1.541044e+00
+# a=1.090237e+00
+# a=9.999997e-01
+# a=1.202920e+00
+# a=3.881030e-01
+# a=1.422050e+00
+# a=1.105406e+00
+# a=3.289716e-02
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:27:21 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:27:21 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:27:22 on Mar 28,2025, Elapsed time: 0:00:23
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:27:22 on Mar 28,2025
+# Loading work.random
+# a=1.837569e+01
+# a=5.145040e+00
+# a=1.541044e+01
+# a=1.090237e+01
+# a=9.999997e+00
+# a=1.202920e+01
+# a=3.881030e+00
+# a=1.422050e+01
+# a=1.105406e+01
+# a=3.289716e-01
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:28:17 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:28:17 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:28:17 on Mar 28,2025, Elapsed time: 0:00:55
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:28:17 on Mar 28,2025
+# Loading work.random
+# a=1.153755e+01
+# a=1.522675e+01
+# a=1.001576e+01
+# a=5.052232e+00
+# a=4.527199e+00
+# a=1.730304e+01
+# a=1.409180e+00
+# a=9.730258e+00
+# a=5.211844e+00
+# a=6.282372e+00
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:30:17 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:30:17 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:30:18 on Mar 28,2025, Elapsed time: 0:02:01
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:30:18 on Mar 28,2025
+# Loading work.random
+# a=1.153755e+01
+# a=1.522675e+01
+# a=1.001576e+01
+# a=5.052232e+00
+# a=4.527199e+00
+# a=1.730304e+01
+# a=1.409180e+00
+# a=9.730258e+00
+# a=5.211844e+00
+# a=6.282372e+00
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:31:20 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:31:20 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:31:21 on Mar 28,2025, Elapsed time: 0:01:03
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:31:21 on Mar 28,2025
+# Loading work.random
+# a=1.153755e+00
+# a=1.522675e+00
+# a=1.001576e+00
+# a=5.052232e-01
+# a=4.527199e-01
+# a=1.730304e+00
+# a=1.409180e-01
+# a=9.730258e-01
+# a=5.211844e-01
+# a=6.282372e-01
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:33:31 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:33:31 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:33:31 on Mar 28,2025, Elapsed time: 0:02:10
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:33:31 on Mar 28,2025
+# Loading work.random
+# a=1.153755
+# a=1.522675
+# a=1.001576
+# a=0.505223
+# a=0.452720
+# a=1.730304
+# a=0.140918
+# a=0.973026
+# a=0.521184
+# a=0.628237
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:33:47 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:33:47 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:33:48 on Mar 28,2025, Elapsed time: 0:00:17
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:33:48 on Mar 28,2025
+# Loading work.random
+# a=115.375452
+# a=152.267476
+# a=100.157589
+# a=50.522318
+# a=45.271985
+# a=173.030388
+# a=14.091804
+# a=97.302581
+# a=52.118440
+# a=62.823719
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:34:18 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:34:18 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:34:19 on Mar 28,2025, Elapsed time: 0:00:31
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:34:19 on Mar 28,2025
+# Loading work.random
+# a=11.537545
+# a=15.226748
+# a=10.015759
+# a=5.052232
+# a=4.527199
+# a=17.303039
+# a=1.409180
+# a=9.730258
+# a=5.211844
+# a=6.282372
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:34:36 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:34:36 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:34:37 on Mar 28,2025, Elapsed time: 0:00:18
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:34:37 on Mar 28,2025
+# Loading work.random
+# a=1294826395.000000
+# a=1708855243.000000
+# a=1124040582.000000
+# a=566997828.000000
+# a=508074813.000000
+# a=1941871591.000000
+# a=158148371.000000
+# a=1091999619.000000
+# a=584910661.000000
+# a=705053012.000000
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:35:14 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:35:14 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:35:15 on Mar 28,2025, Elapsed time: 0:00:38
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:35:15 on Mar 28,2025
+# Loading work.random
+# a=1.000000
+# a=1.000000
+# a=1.000000
+# a=0.000000
+# a=0.000000
+# a=1.000000
+# a=0.000000
+# a=0.000000
+# a=0.000000
+# a=0.000000
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:35:36 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:35:36 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:35:36 on Mar 28,2025, Elapsed time: 0:00:21
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:35:36 on Mar 28,2025
+# Loading work.random
+# a=1.000000
+# a=1.000000
+# a=1.000000
+# a=0.000000
+# a=0.000000
+# a=1.000000
+# a=0.000000
+# a=0.000000
+# a=0.000000
+# a=0.000000
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:35:51 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:35:51 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:35:51 on Mar 28,2025, Elapsed time: 0:00:15
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:35:51 on Mar 28,2025
+# Loading work.random
+# a=1294826395.000000
+# a=1708855243.000000
+# a=1124040582.000000
+# a=566997828.000000
+# a=508074813.000000
+# a=1941871591.000000
+# a=158148371.000000
+# a=1091999619.000000
+# a=584910661.000000
+# a=705053012.000000
+# A time value could not be extracted from the current line
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:36:51 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:36:51 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:36:52 on Mar 28,2025, Elapsed time: 0:01:01
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:36:52 on Mar 28,2025
+# Loading work.random
+# a=2.000000
+# a=3.000000
+# a=1.000000
+# a=1.000000
+# a=0.000000
+# a=3.000000
+# a=0.000000
+# a=1.000000
+# a=1.000000
+# a=1.000000
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:37:09 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:37:09 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:37:10 on Mar 28,2025, Elapsed time: 0:00:18
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:37:10 on Mar 28,2025
+# Loading work.random
+# a=6.600000
+# a=9.900000
+# a=3.300000
+# a=3.300000
+# a=0.000000
+# a=9.900000
+# a=0.000000
+# a=3.300000
+# a=3.300000
+# a=3.300000
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:37:53 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:37:53 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:37:54 on Mar 28,2025, Elapsed time: 0:00:44
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:37:54 on Mar 28,2025
+# Loading work.random
+# a=9.900000
+# a=3.300000
+# a=9.900000
+# a=6.600000
+# a=3.300000
+# a=6.600000
+# a=0.000000
+# a=6.600000
+# a=6.600000
+# a=0.000000
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:38:07 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:38:07 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:38:08 on Mar 28,2025, Elapsed time: 0:00:14
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:38:08 on Mar 28,2025
+# Loading work.random
+# a=3.000000
+# a=1.000000
+# a=3.000000
+# a=2.000000
+# a=1.000000
+# a=2.000000
+# a=0.000000
+# a=2.000000
+# a=2.000000
+# a=0.000000
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:38:28 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:38:28 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:38:29 on Mar 28,2025, Elapsed time: 0:00:21
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:38:29 on Mar 28,2025
+# Loading work.random
+# a=36.000000
+# a=10.000000
+# a=30.000000
+# a=21.000000
+# a=19.000000
+# a=23.000000
+# a=7.000000
+# a=28.000000
+# a=21.000000
+# a=0.000000
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:38:42 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:38:42 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:38:42 on Mar 28,2025, Elapsed time: 0:00:13
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:38:42 on Mar 28,2025
+# Loading work.random
+# a=3.000000
+# a=1.000000
+# a=3.000000
+# a=2.000000
+# a=1.000000
+# a=2.000000
+# a=0.000000
+# a=2.000000
+# a=2.000000
+# a=0.000000
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:40:01 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:40:01 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:40:02 on Mar 28,2025, Elapsed time: 0:01:20
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:40:02 on Mar 28,2025
+# Loading work.random
+# a=12.002571
+# a=3.360620
+# a=10.065742
+# a=7.121175
+# a=6.531765
+# a=7.857191
+# a=2.534999
+# a=9.288500
+# a=7.220254
+# a=0.214877
+
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:40:37 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:40:37 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:40:38 on Mar 28,2025, Elapsed time: 0:00:36
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:40:38 on Mar 28,2025
+# Loading work.random
+# a=10.911428
+# a=3.055109
+# a=9.150675
+# a=6.473796
+# a=5.937968
+# a=7.142901
+# a=2.304544
+# a=8.444090
+# a=6.563867
+# a=0.195342
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:40:57 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:40:57 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:40:58 on Mar 28,2025, Elapsed time: 0:00:20
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:40:58 on Mar 28,2025
+# Loading work.random
+# a=10.911428
+# a=3.055109
+# a=9.150675
+# a=6.473796
+# a=5.937968
+# a=7.142901
+# a=2.304544
+# a=8.444090
+# a=6.563867
+# a=0.195342
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:41:42 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:41:42 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:41:42 on Mar 28,2025, Elapsed time: 0:00:44
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:41:42 on Mar 28,2025
+# Loading work.random
+# a=10.911428
+# a=3.055109
+# a=9.150675
+# a=6.473796
+# a=5.937968
+# a=7.142901
+# a=2.304544
+# a=8.444090
+# a=6.563867
+# a=0.195342
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:41:58 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:41:58 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:41:59 on Mar 28,2025, Elapsed time: 0:00:17
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:41:59 on Mar 28,2025
+# Loading work.random
+# a=6.850960
+# a=9.041597
+# a=5.947327
+# a=3.000000
+# a=2.688237
+# a=10.274492
+# a=0.836767
+# a=5.777798
+# a=3.094777
+# a=3.730454
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:42:11 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:42:11 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:42:12 on Mar 28,2025, Elapsed time: 0:00:13
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:42:12 on Mar 28,2025
+# Loading work.random
+# a=11.317440
+# a=2.708080
+# a=3.443627
+# a=10.418741
+# a=9.165125
+# a=4.562281
+# a=10.411427
+# a=3.963666
+# a=1.255942
+# a=6.285709
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:42:49 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:42:49 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:42:50 on Mar 28,2025, Elapsed time: 0:00:38
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:42:50 on Mar 28,2025
+# Loading work.random
+# a=12.366285
+# a=3.462457
+# a=10.370765
+# a=7.336968
+# a=6.729697
+# a=8.095288
+# a=2.611817
+# a=9.569969
+# a=7.439050
+# a=0.221388
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:43:02 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:43:02 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:43:03 on Mar 28,2025, Elapsed time: 0:00:13
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:43:03 on Mar 28,2025
+# Loading work.random
+# a=7.764421
+# a=10.247143
+# a=6.740304
+# a=3.400000
+# a=3.046668
+# a=11.644425
+# a=0.948336
+# a=6.548171
+# a=3.507414
+# a=4.227847
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:43:38 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:43:39 on Mar 28,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# End time: 15:43:39 on Mar 28,2025, Elapsed time: 0:00:36
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:43:39 on Mar 28,2025
+# Loading work.random
+# a=1294826395.000000
+# a=1708855243.000000
+# a=1124040582.000000
+# a=566997828.000000
+# a=508074813.000000
+# a=1941871591.000000
+# a=158148371.000000
+# a=1091999619.000000
+# a=584910661.000000
+# a=705053012.000000
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:44:06 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:44:06 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:44:06 on Mar 28,2025, Elapsed time: 0:00:27
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:44:06 on Mar 28,2025
+# Loading work.random
+# a=7.536056
+# a=9.945756
+# a=6.542060
+# a=3.300000
+# a=2.957061
+# a=11.301941
+# a=0.920444
+# a=6.355578
+# a=3.404255
+# a=4.103499
+# A time value could not be extracted from the current line
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:45:00 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:45:00 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:45:00 on Mar 28,2025, Elapsed time: 0:00:54
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:45:00 on Mar 28,2025
+# Loading work.random
+# a=3.801399
+# a=5.016921
+# a=3.300000
+# a=1.664613
+# a=1.491625
+# a=5.701019
+# a=0.464298
+# a=3.205933
+# a=1.717202
+# a=2.069921
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:45:31 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:45:31 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:45:32 on Mar 28,2025, Elapsed time: 0:00:32
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:45:32 on Mar 28,2025
+# Loading work.random
+# a=3.801399
+# a=5.016921
+# a=3.300000
+# a=1.664613
+# a=1.491625
+# a=5.701019
+# a=0.464298
+# a=3.205933
+# a=1.717202
+# a=2.069921
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:46:03 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:46:03 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:46:03 on Mar 28,2025, Elapsed time: 0:00:31
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:46:03 on Mar 28,2025
+# Loading work.random
+# a=5.874890
+# a=7.753423
+# a=5.100000
+# a=2.572584
+# a=2.305238
+# a=8.810665
+# a=0.717551
+# a=4.954624
+# a=2.653858
+# a=3.198968
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:46:21 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:46:21 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:46:22 on Mar 28,2025, Elapsed time: 0:00:19
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:46:22 on Mar 28,2025
+# Loading work.random
+# a=11.173810
+# a=14.746706
+# a=9.700000
+# a=4.892954
+# a=4.384473
+# a=16.757539
+# a=1.364754
+# a=9.423500
+# a=5.047534
+# a=6.084313
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:46:37 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:46:37 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:46:37 on Mar 28,2025, Elapsed time: 0:00:15
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:46:37 on Mar 28,2025
+# Loading work.random
+# a=7.717993
+# a=10.185869
+# a=6.700000
+# a=3.379669
+# a=3.028450
+# a=11.574795
+# a=0.942665
+# a=6.509015
+# a=3.486441
+# a=4.202566
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:46:53 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:46:53 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:46:54 on Mar 28,2025, Elapsed time: 0:00:17
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:46:54 on Mar 28,2025
+# Loading work.random
+# a=77.179930
+# a=101.858696
+# a=67.000004
+# a=33.796695
+# a=30.284507
+# a=115.747960
+# a=9.426654
+# a=65.090157
+# a=34.864414
+# a=42.025666
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:47:08 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:47:08 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:47:09 on Mar 28,2025, Elapsed time: 0:00:15
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:47:09 on Mar 28,2025
+# Loading work.random
+# a=0.771799
+# a=1.018587
+# a=0.670000
+# a=0.337967
+# a=0.302845
+# a=1.157480
+# a=0.094267
+# a=0.650902
+# a=0.348644
+# a=0.420257
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:47:17 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:47:17 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:47:18 on Mar 28,2025, Elapsed time: 0:00:09
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:47:18 on Mar 28,2025
+# Loading work.random
+# a=7.717993
+# a=10.185869
+# a=6.700000
+# a=3.379669
+# a=3.028450
+# a=11.574795
+# a=0.942665
+# a=6.509015
+# a=3.486441
+# a=4.202566
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:44 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:48:44 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:48:45 on Mar 28,2025, Elapsed time: 0:01:27
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:48:45 on Mar 28,2025
+# Loading work.random
+# a=-4.039769
+# a=5.331510
+# a=-3.506929
+# a=-1.768994
+# a=-1.585158
+# a=6.058505
+# a=-0.493412
+# a=-3.406963
+# a=1.824881
+# a=2.199716
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:49:42 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:49:42 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:49:42 on Mar 28,2025, Elapsed time: 0:00:57
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:49:42 on Mar 28,2025
+# Loading work.random
+# a=4.039769
+# a=3.506929
+# a=1.768994
+# a=1.585158
+# a=0.493412
+# a=3.406963
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:51:09 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:51:09 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:51:10 on Mar 28,2025, Elapsed time: 0:01:28
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:51:10 on Mar 28,2025
+# Loading work.random
+# a=40.397685
+# a=35.069286
+# a=17.689939
+# a=15.851582
+# a=4.934119
+# a=34.069631
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:51:47 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:51:48 on Mar 28,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# End time: 15:51:48 on Mar 28,2025, Elapsed time: 0:00:38
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:51:48 on Mar 28,2025
+# Loading work.random
+# a=19.897367
+# a=17.272932
+# a=8.712955
+# a=7.807495
+# a=2.430238
+# a=16.780564
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:53:03 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:53:03 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:53:04 on Mar 28,2025, Elapsed time: 0:01:16
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:53:04 on Mar 28,2025
+# Loading work.random
+# a=6.029505
+# a=5.234222
+# a=2.640289
+# a=2.365908
+# a=0.736436
+# a=5.085020
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:53:35 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:53:35 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:53:35 on Mar 28,2025, Elapsed time: 0:00:31
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:53:35 on Mar 28,2025
+# Loading work.random
+# a=6.029505
+# a=5.234222
+# a=5.085020
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:53:56 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:53:56 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:53:57 on Mar 28,2025, Elapsed time: 0:00:22
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:53:57 on Mar 28,2025
+# Loading work.random
+# a=6.029505
+# a=5.234222
+# a=5.085020
+# a=8.318741
+# a=7.222492
+# a=3.394508
+# a=3.510882
+# a=4.450139
+# a=6.720581
+# a=3.928007
+# a=3.645684
+# a=3.923938
+# a=4.918250
+# a=7.663526
+# a=8.000326
+# a=5.310339
+# a=9.496281
+# a=5.719709
+# a=4.568335
+# a=8.993142
+# a=7.314532
+# a=7.514825
+# a=6.852569
+# a=5.221080
+# a=4.118187
+# a=8.860454
+# a=6.849472
+# a=6.270740
+# a=5.780639
+# a=5.024547
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:55:43 on Mar 28,2025
+# vlog -reportprogress 300 random_gen.v 
+# -- Compiling module random
+# 
+# Top level modules:
+# 	random
+# End time: 15:55:43 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:55:44 on Mar 28,2025, Elapsed time: 0:01:47
+# Errors: 0, Warnings: 0
+# vsim random 
+# Start time: 15:55:44 on Mar 28,2025
+# Loading work.random
+# a=6.0
+# a=5.2
+# a=5.1
+# a=8.3
+# a=7.2
+# a=3.4
+# a=3.5
+# a=4.5
+# a=6.7
+# a=3.9
+# a=3.6
+# a=3.9
+# a=4.9
+# a=7.7
+# a=8.0
+# a=5.3
+# a=9.5
+# a=5.7
+# a=4.6
+# a=9.0
+# a=7.3
+# a=7.5
+# a=6.9
+# a=5.2
+# a=4.1
+# a=8.9
+# a=6.8
+# a=6.3
+# a=5.8
+# a=5.0
+# End time: 16:03:11 on Mar 28,2025, Elapsed time: 0:07:27
+# Errors: 0, Warnings: 0

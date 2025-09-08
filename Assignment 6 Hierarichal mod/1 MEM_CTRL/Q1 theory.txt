@@ -1,0 +1,9 @@
+Q.	Why connection by name is preferred, what are the benefits?
+A.  1.Order doesn't matter: You can connect ports in any order.
+	2.Easier to debug: Errors are easier to track because each connection is named and isolated.
+	3.Improved readability: The code is clear about which signals are connected to which ports.
+
+Q.  What is default connection?
+A.  It is represented by .*
+	The variables in design as well as testbench. The connection is system deafault.
+

@@ -1,0 +1,53 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Assignment 6 Hierarichal mod/D_FF
+vd_ff
+Z1 !s110 1745903000
+!i10b 1
+!s100 50e11;:TUX<TWR:1W2fCH0
+IlbD8^gh6Mmm:o=Ffl]7nK2
+R0
+w1745902995
+8d_ff_gate.v
+Fd_ff_gate.v
+!i122 9
+L0 1 15
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2021.1;73
+r1
+!s85 0
+31
+Z4 !s108 1745903000.000000
+!s107 d_ff_gate.v|d_ff_tb_gate.v|
+Z5 !s90 -reportprogress|300|d_ff_tb_gate.v|
+!i113 1
+Z6 tCvgOpt 0
+vtb
+R1
+!i10b 1
+!s100 Fg7V_1i5c:4W=P]Yz^j2k0
+IZ4Y@IdZ<:lo6H7aQSgSkV3
+R0
+w1745902816
+8d_ff_tb_gate.v
+Fd_ff_tb_gate.v
+!i122 9
+L0 2 15
+R2
+R3
+r1
+!s85 0
+31
+R4
+Z7 !s107 d_ff_gate.v|d_ff_tb_gate.v|
+R5
+!i113 1
+R6

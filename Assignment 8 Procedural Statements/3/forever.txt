@@ -1,0 +1,7 @@
+How many statements in the below code?
+forever #10 clk=~clk;
+
+	there is only one statement in the above code
+
+What if we need to run multiple statements in forever loop. What is required?
+	to run multiple statements we need begin end blocks

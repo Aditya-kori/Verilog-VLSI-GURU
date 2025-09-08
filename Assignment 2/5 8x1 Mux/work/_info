@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Assignment 2/5 8x1 Mux
+vmux81
+Z1 !s110 1743072911
+!i10b 1
+!s100 lfNW5Wn0:bEUPC>SX]TTD2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IOI=7Q_694]4^<e4]X;5jO0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1743072798
+8mux81.v
+Fmux81.v
+!i122 0
+L0 1 15
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1743072911.000000
+!s107 mux81.v|mux81_tb.v|
+Z6 !s90 -reportprogress|300|mux81_tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vmux81_tb
+R1
+!i10b 1
+!s100 QLDSn<VY4YZ68=XMYmVjU1
+R2
+IMlA`0D5BECHS8dQbOjeb11
+R3
+R0
+w1743072881
+8mux81_tb.v
+Fmux81_tb.v
+!i122 0
+L0 2 14
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 mux81.v|mux81_tb.v|
+R6
+!i113 1
+R7

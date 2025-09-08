@@ -1,0 +1,53 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Assignment 8 Procedural Statements/23 System Task
+vfull_add
+!s110 1747286553
+!i10b 1
+!s100 B;V[XL_YG0G`@Eg?^b1EX1
+Igdfojm:<ONd4[H4Ej_<nO2
+R0
+w1747286463
+8full_add.v
+Ffull_add.v
+!i122 1
+L0 1 5
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 OV;L;2021.1;73
+r1
+!s85 0
+31
+!s108 1747286553.000000
+!s107 full_add.v|tb.v|
+!s90 -reportprogress|300|tb.v|
+!i113 1
+Z3 tCvgOpt 0
+vtb
+!s110 1747290508
+!i10b 1
+!s100 amdb?z6Id5:YK]NW3LH473
+IR[iNXl4mKkcIMBAnL>3b30
+R0
+w1747290505
+8log.v
+Flog.v
+!i122 29
+L0 1 8
+R1
+R2
+r1
+!s85 0
+31
+!s108 1747290508.000000
+!s107 log.v|
+!s90 -reportprogress|300|log.v|
+!i113 1
+R3

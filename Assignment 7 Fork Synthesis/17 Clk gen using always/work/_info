@@ -1,0 +1,32 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Assignment 7 Fork Synthesis/17 Clk gen using always
+vtb
+!s110 1746877160
+!i10b 1
+!s100 U[GHY5]WfZC<mh=OI=bl41
+Ii7S4UiOZH1O5JB[l5eDgg3
+R0
+w1746877158
+8clk_gen.v
+Fclk_gen.v
+!i122 2
+L0 1 9
+VDg1SIo80bB@j0V0VzS_@n1
+OV;L;2021.1;73
+r1
+!s85 0
+31
+!s108 1746877160.000000
+!s107 clk_gen.v|
+!s90 -reportprogress|300|clk_gen.v|
+!i113 1
+tCvgOpt 0

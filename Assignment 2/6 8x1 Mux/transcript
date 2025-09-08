@@ -1,0 +1,123 @@
+# Reading pref.tcl
+dp run.do
+# invalid command name "dp"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:16:10 on Mar 27,2025
+# vlog -reportprogress 300 mux81_tb.v 
+# -- Compiling module mux81
+# ** Error: (vlog-13069) ** while parsing file included at mux81_tb.v(1)
+# ** at mux81.v(6): near "[": syntax error, unexpected '['.
+# ** Error: (vlog-13069) ** while parsing file included at mux81_tb.v(1)
+# ** at mux81.v(7): near "[": syntax error, unexpected '['.
+# ** Error: (vlog-13069) ** while parsing file included at mux81_tb.v(1)
+# ** at mux81.v(8): near "[": syntax error, unexpected '['.
+# ** Error: (vlog-13069) ** while parsing file included at mux81_tb.v(1)
+# ** at mux81.v(9): near "[": syntax error, unexpected '['.
+# ** Error: (vlog-13069) ** while parsing file included at mux81_tb.v(1)
+# ** at mux81.v(10): near "[": syntax error, unexpected '['.
+# ** Error: (vlog-13069) ** while parsing file included at mux81_tb.v(1)
+# ** at mux81.v(11): near "[": syntax error, unexpected '['.
+# ** Error: (vlog-13069) ** while parsing file included at mux81_tb.v(1)
+# ** at mux81.v(12): near "[": syntax error, unexpected '['.
+# ** Error: (vlog-13069) ** while parsing file included at mux81_tb.v(1)
+# ** at mux81.v(13): near "[": syntax error, unexpected '['.
+# -- Compiling module mux81_tb
+# ** Error: (vlog-13069) mux81_tb.v(12): near "[": syntax error, unexpected '[', expecting ')' or ','.
+# End time: 16:16:10 on Mar 27,2025, Elapsed time: 0:00:00
+# Errors: 9, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog mux81_tb.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:17:52 on Mar 27,2025
+# vlog -reportprogress 300 mux81_tb.v 
+# -- Compiling module mux81
+# ** Error: (vlog-13069) ** while parsing file included at mux81_tb.v(1)
+# ** at mux81.v(6): near "[": syntax error, unexpected '['.
+# ** Error: (vlog-13069) ** while parsing file included at mux81_tb.v(1)
+# ** at mux81.v(7): near "[": syntax error, unexpected '['.
+# ** Error: (vlog-13069) ** while parsing file included at mux81_tb.v(1)
+# ** at mux81.v(8): near "[": syntax error, unexpected '['.
+# ** Error: (vlog-13069) ** while parsing file included at mux81_tb.v(1)
+# ** at mux81.v(9): near "[": syntax error, unexpected '['.
+# ** Error: (vlog-13069) ** while parsing file included at mux81_tb.v(1)
+# ** at mux81.v(10): near "[": syntax error, unexpected '['.
+# ** Error: (vlog-13069) ** while parsing file included at mux81_tb.v(1)
+# ** at mux81.v(11): near "[": syntax error, unexpected '['.
+# ** Error: (vlog-13069) ** while parsing file included at mux81_tb.v(1)
+# ** at mux81.v(12): near "[": syntax error, unexpected '['.
+# ** Error: (vlog-13069) ** while parsing file included at mux81_tb.v(1)
+# ** at mux81.v(13): near "[": syntax error, unexpected '['.
+# -- Compiling module mux81_tb
+# End time: 16:17:52 on Mar 27,2025, Elapsed time: 0:00:00
+# Errors: 8, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog mux81_tb.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:18:48 on Mar 27,2025
+# vlog -reportprogress 300 mux81_tb.v 
+# -- Compiling module mux81
+# -- Compiling module mux81_tb
+# 
+# Top level modules:
+# 	mux81_tb
+# End time: 16:18:48 on Mar 27,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim mux81_tb 
+# Start time: 16:18:48 on Mar 27,2025
+# Loading work.mux81_tb
+# Loading work.mux81
+# sel=1 i0=01 i1=00 i2=00 i3=00 i4=10 i5=00 i6=10 i7=10 y=00
+# sel=1 i0=01 i1=11 i2=11 i3=00 i4=01 i5=01 i6=01 i7=11 y=11
+# sel=4 i0=10 i1=00 i2=11 i3=10 i4=00 i5=11 i6=10 i7=11 y=00
+# sel=1 i0=01 i1=01 i2=01 i3=00 i4=00 i5=01 i6=10 i7=01 y=01
+# sel=0 i0=01 i1=00 i2=11 i3=00 i4=10 i5=00 i6=11 i7=10 y=01
+# sel=2 i0=01 i1=10 i2=01 i3=10 i4=10 i5=01 i6=01 i7=11 y=01
+# sel=6 i0=01 i1=01 i2=01 i3=00 i4=00 i5=11 i6=11 i7=01 y=11
+# sel=1 i0=10 i1=01 i2=10 i3=10 i4=10 i5=11 i6=10 i7=00 y=01
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:20:25 on Mar 27,2025
+# vlog -reportprogress 300 mux81_tb.v 
+# -- Compiling module mux81
+# ** Error (suppressible): ** while parsing file included at mux81_tb.v(1)
+# ** at mux81.v(6): (vlog-13215) Cannot assign an unpacked type 'wire $[1:0]' to a packed type 'reg[1:0]'.
+# ** Error (suppressible): ** while parsing file included at mux81_tb.v(1)
+# ** at mux81.v(7): (vlog-13215) Cannot assign an unpacked type 'wire $[3:2]' to a packed type 'reg[1:0]'.
+# ** Error (suppressible): ** while parsing file included at mux81_tb.v(1)
+# ** at mux81.v(8): (vlog-13215) Cannot assign an unpacked type 'wire $[5:4]' to a packed type 'reg[1:0]'.
+# ** Error (suppressible): ** while parsing file included at mux81_tb.v(1)
+# ** at mux81.v(9): (vlog-13215) Cannot assign an unpacked type 'wire $[7:6]' to a packed type 'reg[1:0]'.
+# ** Error (suppressible): ** while parsing file included at mux81_tb.v(1)
+# ** at mux81.v(10): (vlog-13215) Cannot assign an unpacked type 'wire $[9:8]' to a packed type 'reg[1:0]'.
+# ** Error (suppressible): ** while parsing file included at mux81_tb.v(1)
+# ** at mux81.v(11): (vlog-13215) Cannot assign an unpacked type 'wire $[11:10]' to a packed type 'reg[1:0]'.
+# ** Error (suppressible): ** while parsing file included at mux81_tb.v(1)
+# ** at mux81.v(12): (vlog-13215) Cannot assign an unpacked type 'wire $[13:11]' to a packed type 'reg[1:0]'.
+# ** Error (suppressible): ** while parsing file included at mux81_tb.v(1)
+# ** at mux81.v(13): (vlog-13215) Cannot assign an unpacked type 'wire $[15:14]' to a packed type 'reg[1:0]'.
+# -- Compiling module mux81_tb
+# ** Error: mux81_tb.v(10): (vlog-2110) Illegal reference to memory "i".
+# ** Error (suppressible): mux81_tb.v(10): (vlog-2251) Illegal concatenation of unpacked value.
+# ** Error: mux81_tb.v(10): Illegal LHS of assignment.
+# End time: 16:20:25 on Mar 27,2025, Elapsed time: 0:00:00
+# Errors: 11, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog mux81_tb.v"
+# End time: 16:22:17 on Mar 27,2025, Elapsed time: 0:03:29
+# Errors: 1, Warnings: 0

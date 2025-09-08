@@ -1,0 +1,13 @@
+a. What are the thing declared in timescale
+	They are timestep and time presicion
+
+b. define a timescale with 10ns time step and 1ns time precision
+	`timescale 10ns/1ns
+
+c. 	ii. `timescale 1ns/1ns 
+	1. we wont be ablwto generate a clock of 10.5ns, 3.33ns.
+	2. we can generate a clock of 10ns, 3ns
+
+	iii. What is the new time scale used in clock generation example?
+		the new time scale used is 1ns/1ps
+

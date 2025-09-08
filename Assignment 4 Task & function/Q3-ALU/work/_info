@@ -1,0 +1,33 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/VLSI GURU/Assign-4-task,function/Q3-ALU
+valu
+!s110 1744760292
+!i10b 1
+!s100 _6OjTzaM5G>C8iCGN5UMg0
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+I5XX3n@:9:?F]Uj;<8cL`A0
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1744759552
+8Alu.v
+FAlu.v
+!i122 10
+L0 16 31
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1744760292.000000
+!s107 Alu.v|
+!s90 -reportprogress|300|Alu.v|
+!i113 1
+tCvgOpt 0

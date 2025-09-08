@@ -1,0 +1,33 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Assignment/array even odd
+veven_odd
+!s110 1743066279
+!i10b 1
+!s100 bQO;6LGELl`l1lZj_mU4E0
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+IMVHHDJBQCj[V@hH:_3@FQ3
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1743059619
+8array_even_odd.v
+Farray_even_odd.v
+!i122 25
+L0 1 14
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1743066279.000000
+!s107 array_even_odd.v|
+!s90 -reportprogress|300|array_even_odd.v|
+!i113 1
+tCvgOpt 0

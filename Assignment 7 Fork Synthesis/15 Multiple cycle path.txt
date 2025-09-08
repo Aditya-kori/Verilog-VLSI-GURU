@@ -1,0 +1,7 @@
+Multiple Cycle Path
+it means for performing a single operation it takes multiple clock cycle
+example: 	always@(posedge clk)
+			#15;
+			$display("Entry 2 %t"$time);
+			end
+			In the above example the entry 2 happens at 20(5), 40(25), 60(45) etc skipping one clk cycle in the middle. This is termed to as multiple cycle path

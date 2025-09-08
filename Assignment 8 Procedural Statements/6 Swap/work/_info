@@ -1,0 +1,32 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Assignment 8 Procedural Statements/6 Swap
+vtb
+!s110 1747133904
+!i10b 1
+!s100 ?GR7P`a>83o@5>lz;U6ZI2
+IBB9zC9<Q6P5TQGODnDU2d2
+R0
+w1747133903
+8swap_non.v
+Fswap_non.v
+!i122 4
+L0 1 11
+VDg1SIo80bB@j0V0VzS_@n1
+OV;L;2021.1;73
+r1
+!s85 0
+31
+!s108 1747133904.000000
+!s107 swap_non.v|
+!s90 -reportprogress|300|swap_non.v|
+!i113 1
+tCvgOpt 0

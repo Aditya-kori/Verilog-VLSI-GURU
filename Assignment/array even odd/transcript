@@ -1,0 +1,84 @@
+# Reading pref.tcl
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:34:39 on Mar 27,2025
+# vlog -reportprogress 300 array_even_odd.v 
+# -- Compiling module even_odd
+# 
+# Top level modules:
+# 	even_odd
+# End time: 14:34:39 on Mar 27,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim even_odd 
+# Start time: 14:34:39 on Mar 27,2025
+# Loading work.even_odd
+# a[ 6]= 5
+# a[ 6]= 1
+# a[18]= 5
+# a[ 7]=16
+# a[10]=17
+# a[15]= 4
+# a[14]= 3
+# a[ 5]=10
+# a[ 0]= 7
+# a[ 5]= 6
+# a[ 9]=14
+# a[10]= 1
+# a[11]=12
+# a[ 9]= 2
+# a[ 0]=17
+# a[14]= 9
+# a[14]=13
+# a[ 5]=10
+# a[17]=16
+# a[ 3]= 4
+# a[19]= 0
+# a[ 6]= 5
+# a[ 5]=12
+# a[15]=14
+# a[ 4]=15
+# a[11]=14
+# a[ 7]= 0
+# a[ 1]= 2
+# a[16]= 5
+# a[18]=17
+# a[ 0]=19
+# a[17]=10
+# a[ 0]=11
+# a[ 4]=19
+# a[ 9]= 0
+# a[12]= 5
+# a[ 3]= 8
+# a[19]=10
+# a[11]= 2
+# a[ 0]=19
+# a[10]= 3
+# a[ 4]= 9
+# a[15]=18
+# a[ 5]= 2
+# a[12]= 5
+# a[ 9]= 8
+# a[ 5]=18
+# a[ 1]=10
+# a[14]= 1
+# a[ 0]= 9
+# a[11]= 0
+# a[12]=11
+# a[11]= 0
+# a[ 1]= 8
+# a[ 6]= 5
+# a[ 1]= 0
+# a[ 1]= 0
+# a[ 9]= 8
+# a[10]=17
+# a[ 3]= 2
+# a[12]=17
+# a[ 6]= 5
+# a[ 5]= 4
+# a[ 4]=11
+# a[13]=16
+# a[ 1]=10
+# a[15]=18
+# a[ 5]= 4
+# a[16]=17

@@ -1,0 +1,447 @@
+# Reading pref.tcl
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:38:23 on Mar 25,2025
+# vlog -reportprogress 300 array_pos.v 
+# -- Compiling module tb
+# ** Error (suppressible): array_pos.v(2): (vlog-13278) Can't have packed array of integer type.
+# End time: 17:38:24 on Mar 25,2025, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog array_pos.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:38:55 on Mar 25,2025
+# vlog -reportprogress 300 array_pos.v 
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 17:38:55 on Mar 25,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim tb 
+# Start time: 17:38:55 on Mar 25,2025
+# Loading work.tb
+# a=1011
+# a=1001
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:39:24 on Mar 25,2025
+# vlog -reportprogress 300 array_pos.v 
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 17:39:24 on Mar 25,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 17:39:25 on Mar 25,2025, Elapsed time: 0:00:30
+# Errors: 0, Warnings: 0
+# vsim tb 
+# Start time: 17:39:25 on Mar 25,2025
+# Loading work.tb
+# a=11
+# a= 9
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:39:47 on Mar 25,2025
+# vlog -reportprogress 300 array_pos.v 
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 17:39:47 on Mar 25,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 17:39:48 on Mar 25,2025, Elapsed time: 0:00:23
+# Errors: 0, Warnings: 0
+# vsim tb 
+# Start time: 17:39:48 on Mar 25,2025
+# Loading work.tb
+# a= 123
+# a= 121
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:40:29 on Mar 25,2025
+# vlog -reportprogress 300 array_pos.v 
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 17:40:30 on Mar 25,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# End time: 17:40:30 on Mar 25,2025, Elapsed time: 0:00:42
+# Errors: 0, Warnings: 0
+# vsim tb 
+# Start time: 17:40:30 on Mar 25,2025
+# Loading work.tb
+# a= 123
+# a= 123
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:40:58 on Mar 25,2025
+# vlog -reportprogress 300 array_pos.v 
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 17:40:58 on Mar 25,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 17:40:59 on Mar 25,2025, Elapsed time: 0:00:29
+# Errors: 0, Warnings: 0
+# vsim tb 
+# Start time: 17:40:59 on Mar 25,2025
+# Loading work.tb
+# a= 123
+# a=  96
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:41:25 on Mar 25,2025
+# vlog -reportprogress 300 array_pos.v 
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 17:41:25 on Mar 25,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 17:41:26 on Mar 25,2025, Elapsed time: 0:00:27
+# Errors: 0, Warnings: 0
+# vsim tb 
+# Start time: 17:41:26 on Mar 25,2025
+# Loading work.tb
+# a=000001111011
+# a=  96
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:41:52 on Mar 25,2025
+# vlog -reportprogress 300 array_pos.v 
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 17:41:52 on Mar 25,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 17:41:53 on Mar 25,2025, Elapsed time: 0:00:27
+# Errors: 0, Warnings: 0
+# vsim tb 
+# Start time: 17:41:53 on Mar 25,2025
+# Loading work.tb
+# a=01111011
+# a=126
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:42:33 on Mar 25,2025
+# vlog -reportprogress 300 array_pos.v 
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 17:42:33 on Mar 25,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 17:42:34 on Mar 25,2025, Elapsed time: 0:00:41
+# Errors: 0, Warnings: 0
+# vsim tb 
+# Start time: 17:42:34 on Mar 25,2025
+# Loading work.tb
+# a=01111011
+# a=01111110
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:44:00 on Mar 25,2025
+# vlog -reportprogress 300 array_pos.v 
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 17:44:00 on Mar 25,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 17:44:01 on Mar 25,2025, Elapsed time: 0:01:27
+# Errors: 0, Warnings: 0
+# vsim tb 
+# Start time: 17:44:02 on Mar 25,2025
+# Loading work.tb
+# a=01111011
+# a=0xxxxxx1
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:44:21 on Mar 25,2025
+# vlog -reportprogress 300 array_pos.v 
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 17:44:21 on Mar 25,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 17:44:22 on Mar 25,2025, Elapsed time: 0:00:20
+# Errors: 0, Warnings: 0
+# vsim tb 
+# Start time: 17:44:22 on Mar 25,2025
+# Loading work.tb
+# a=01111011
+# a=01111110
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:44:33 on Mar 25,2025
+# vlog -reportprogress 300 array_pos.v 
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 17:44:33 on Mar 25,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 17:44:33 on Mar 25,2025, Elapsed time: 0:00:11
+# Errors: 0, Warnings: 0
+# vsim tb 
+# Start time: 17:44:33 on Mar 25,2025
+# Loading work.tb
+# a=01111011
+# a=01111111
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:48:47 on Mar 25,2025
+# vlog -reportprogress 300 array_pos.v 
+# -- Compiling module tb
+# ** Error: (vlog-13069) array_pos.v(5): near ";": syntax error, unexpected ';', expecting ',' or '}'.
+# End time: 17:48:48 on Mar 25,2025, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog array_pos.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:49:09 on Mar 25,2025
+# vlog -reportprogress 300 array_pos.v 
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 17:49:10 on Mar 25,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# End time: 17:49:10 on Mar 25,2025, Elapsed time: 0:04:37
+# Errors: 1, Warnings: 0
+# vsim tb 
+# Start time: 17:49:10 on Mar 25,2025
+# Loading work.tb
+# a=1
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:49:31 on Mar 25,2025
+# vlog -reportprogress 300 array_pos.v 
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 17:49:31 on Mar 25,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 17:49:32 on Mar 25,2025, Elapsed time: 0:00:22
+# Errors: 0, Warnings: 0
+# vsim tb 
+# Start time: 17:49:32 on Mar 25,2025
+# Loading work.tb
+# a=1
+do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:50:00 on Mar 25,2025
+# vlog -reportprogress 300 array_pos.v 
+# -- Compiling module tb
+# ** Error: (vlog-13069) array_pos.v(5): near "<": syntax error, unexpected '<'.
+# End time: 17:50:00 on Mar 25,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog array_pos.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:50:29 on Mar 25,2025
+# vlog -reportprogress 300 array_pos.v 
+# -- Compiling module tb
+# ** Error: (vlog-13069) array_pos.v(5): near "<": syntax error, unexpected '<'.
+# End time: 17:50:29 on Mar 25,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog array_pos.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:52:07 on Mar 25,2025
+# vlog -reportprogress 300 array_pos.v 
+# -- Compiling module tb
+# ** Error: (vlog-13069) array_pos.v(5): near "<": syntax error, unexpected '<'.
+# End time: 17:52:07 on Mar 25,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog array_pos.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:52:23 on Mar 25,2025
+# vlog -reportprogress 300 array_pos.v 
+# -- Compiling module tb
+# ** Error: (vlog-13069) array_pos.v(5): near ";": syntax error, unexpected ';', expecting ',' or '}'.
+# End time: 17:52:23 on Mar 25,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog array_pos.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:52:44 on Mar 25,2025
+# vlog -reportprogress 300 array_pos.v 
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 17:52:44 on Mar 25,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 17:52:45 on Mar 25,2025, Elapsed time: 0:03:13
+# Errors: 4, Warnings: 0
+# vsim tb 
+# Start time: 17:52:45 on Mar 25,2025
+# Loading work.tb
+# a=1 a=00000000000000000001
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:53:12 on Mar 25,2025
+# vlog -reportprogress 300 array_pos.v 
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 17:53:12 on Mar 25,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 17:53:13 on Mar 25,2025, Elapsed time: 0:00:28
+# Errors: 0, Warnings: 0
+# vsim tb 
+# Start time: 17:53:13 on Mar 25,2025
+# Loading work.tb
+# a=1 a=00000000000000000001
+do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:53:26 on Mar 25,2025
+# vlog -reportprogress 300 array_pos.v 
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 17:53:26 on Mar 25,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 17:53:27 on Mar 25,2025, Elapsed time: 0:00:14
+# Errors: 0, Warnings: 0
+# vsim tb 
+# Start time: 17:53:27 on Mar 25,2025
+# Loading work.tb
+# a=1 a=00000000000000000001
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:54:31 on Mar 25,2025
+# vlog -reportprogress 300 tb.sv 
+# -- Compiling module tb
+# ** Error: (vlog-13069) tb.sv(5): near "<": syntax error, unexpected '<', expecting ':'.
+# End time: 17:54:31 on Mar 25,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog tb.sv"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:54:44 on Mar 25,2025
+# vlog -reportprogress 300 tb.sv 
+# -- Compiling module tb
+# ** Error: (vlog-13069) tb.sv(5): near "<": syntax error, unexpected '<'.
+# End time: 17:54:44 on Mar 25,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog tb.sv"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:55:23 on Mar 25,2025
+# vlog -reportprogress 300 tb.sv 
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 17:55:23 on Mar 25,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 17:55:24 on Mar 25,2025, Elapsed time: 0:01:57
+# Errors: 2, Warnings: 0
+# vsim tb 
+# Start time: 17:55:24 on Mar 25,2025
+# Loading sv_std.std
+# Loading work.tb
+# a=344865 a=01010100001100100001
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:57:11 on Mar 25,2025
+# vlog -reportprogress 300 tb.sv 
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 17:57:11 on Mar 25,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 17:57:12 on Mar 25,2025, Elapsed time: 0:01:48
+# Errors: 0, Warnings: 0
+# vsim tb 
+# Start time: 17:57:12 on Mar 25,2025
+# Loading sv_std.std
+# Loading work.tb
+# a=54321
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:58:20 on Mar 25,2025
+# vlog -reportprogress 300 tb.v 
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 17:58:20 on Mar 25,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 17:58:21 on Mar 25,2025, Elapsed time: 0:01:09
+# Errors: 0, Warnings: 0
+# vsim tb 
+# Start time: 17:58:21 on Mar 25,2025
+# Loading work.tb
+# a=54321
+# End time: 17:58:30 on Mar 25,2025, Elapsed time: 0:00:09
+# Errors: 0, Warnings: 0

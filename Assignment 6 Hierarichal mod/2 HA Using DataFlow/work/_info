@@ -1,0 +1,53 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Assignment 6 Hierarichal mod/2 HA Using DataFlow
+vha
+Z1 !s110 1745389981
+!i10b 1
+!s100 ZTQONbP7o5gZMim_RXbdC0
+Im=G0P?I`H]0eEMYz=3mEY3
+R0
+w1742519313
+8ha_data.v
+Fha_data.v
+!i122 0
+L0 1 6
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2021.1;73
+r1
+!s85 0
+31
+Z4 !s108 1745389981.000000
+!s107 ha_data.v|ha_tb.v|
+Z5 !s90 -reportprogress|300|ha_tb.v|
+!i113 1
+Z6 tCvgOpt 0
+vha_tb
+R1
+!i10b 1
+!s100 47kT[cm1_9k`lcX1]8N=;3
+IiHH<Dh6>Y;=4U1W;Y[2UP3
+R0
+w1742519240
+8ha_tb.v
+Fha_tb.v
+!i122 0
+L0 2 12
+R2
+R3
+r1
+!s85 0
+31
+R4
+Z7 !s107 ha_data.v|ha_tb.v|
+R5
+!i113 1
+R6

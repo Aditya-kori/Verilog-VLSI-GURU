@@ -1,0 +1,3 @@
+To implement N-bit adder, subtractor, comparator we can use parameterization
+To implement ALU for each operation we can you parameter to assign English letter
+

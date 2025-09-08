@@ -1,0 +1,11 @@
+Difference between Blocking and Non_blocking
+
+	Blocking
+	Executes sequentially one after the other
+	Typically used in combinational circuits
+	The statements are executed imediately
+
+	Non-Blocking
+	Executes paralelly
+	Typically used in sequetial circuit
+	The statements are executed at the end of the time step

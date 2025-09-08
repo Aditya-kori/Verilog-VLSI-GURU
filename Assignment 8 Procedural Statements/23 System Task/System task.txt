@@ -1,0 +1,53 @@
+	What is a system task
+
+	System tasks are pre-defined, special routines that perform actions related to simulation control, debugging, and file I/O. 
+	They are distinguished from user-defined tasks by starting with a dollar sign ($). 
+	Examples include $display, $strobe, $monitor, $finish
+
+	How system task can be used as system function
+		if($value$plusargs())--> It is used as a function
+
+	List down various categories of system tasks
+	Display Tasks: 
+	$display: Displays messages, including variable values, formatted for debugging.
+	$monitor: Monitors and displays signals continuously while the simulation runs.
+	2. Simulation Control Tasks: 
+	$finish: Terminates the simulation.
+	$stop: Pauses the simulation temporarily.
+	3. File I/O Tasks:
+	$fopen: Opens a file.
+	$fclose: Closes a file.
+	$fwrite: Writes to a file.
+	$read: Reads from a file.
+
+	What is the default display window for $display & $monitor 
+		The default window is transcript window
+
+	What is the benfit of file handling system tasks?
+	if we use the spi.log and apb.log whatever the output in displayed along with the errors into a file.
+
+	Difference between $stop and $finish
+	$stop 
+	The $stop task is used to pause the simulation at a specific point. When invoked, it effectively acts like a breakpoint, allowing the user to inspect the current state of the simulation without terminating it. You can resume the simulation manually after examining the state.
+
+	To resume the simulation, you will use specific commands provided by your simulation tool. 
+
+	$finsh
+	The $finish task is used to terminate the simulation entirely. When this task is encountered, it stops all simulation processes and returns control to the operating system. This task is typically used when the simulation completes successfully or when an unrecoverable error occurs.
+
+	1. What is a breakpoint
+	A breakpoint is a user-determined stopping point in the source code that you can use for debugging the design.
+
+	Explain the difference between $write and $display
+	$display and $write both will display the output on to the terminal
+	while $display displays each statement in a seperate new line, $write displays it in the same line.
+
+
+	Explain the difference between $strobe and $write
+	$strobe and $write both will display the output on to the terminal
+	$strobe will display statements at the end of time step while $write will display wn it is called.
+
+	Explain the difference between $time and $realtime
+	$time will display the current execution time in integer format while $realtime will display the exact execution time in floating point character.
+
+

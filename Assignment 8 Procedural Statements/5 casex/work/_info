@@ -1,0 +1,53 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Sampls/8_3 priority encoder
+vencode
+Z1 !s110 1744460406
+!i10b 1
+!s100 iHKU^:Gb3CX>EdlDdY4PL0
+IjnNzeT2UYTH1djNomH7H>1
+R0
+w1744460399
+8pri_encod8_3.v
+Fpri_encod8_3.v
+!i122 5
+L0 1 17
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2021.1;73
+r1
+!s85 0
+31
+Z4 !s108 1744460406.000000
+!s107 pri_encod8_3.v|pri_encod8_3_tb.v|
+Z5 !s90 -reportprogress|300|pri_encod8_3_tb.v|
+!i113 1
+Z6 tCvgOpt 0
+vtb
+R1
+!i10b 1
+!s100 m6=M@_dF_@2<BaNY]l5TE2
+I@6E``^LnhRBgj`;MG;U7h0
+R0
+w1744460077
+8pri_encod8_3_tb.v
+Fpri_encod8_3_tb.v
+!i122 5
+L0 2 12
+R2
+R3
+r1
+!s85 0
+31
+R4
+Z7 !s107 pri_encod8_3.v|pri_encod8_3_tb.v|
+R5
+!i113 1
+R6

@@ -1,0 +1,32 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Assignment 3 Clock Generation/4 Clk with user provided freq and duty_cycle
+vtb
+!s110 1745581119
+!i10b 1
+!s100 Ao7kDJTU8nT_dHLlHa6f61
+I=4ScIR^c9RRhQcFfSj;`J2
+R0
+w1745472777
+8clk_gen_f.v
+Fclk_gen_f.v
+!i122 7
+L0 2 19
+VDg1SIo80bB@j0V0VzS_@n1
+OV;L;2021.1;73
+r1
+!s85 0
+31
+!s108 1745581119.000000
+!s107 clk_gen_f.v|
+!s90 -reportprogress|300|clk_gen_f.v|
+!i113 1
+tCvgOpt 0

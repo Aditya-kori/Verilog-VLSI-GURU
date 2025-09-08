@@ -1,0 +1,77 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Assignment/11 Gates using mux
+vmux
+Z1 !s110 1742620726
+!i10b 1
+!s100 B4jDbgoVbJd_D<:[1EW:b1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IQ5O[KWGjk36H?7i9dJVED0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1742558108
+8mux21_v.v
+Fmux21_v.v
+!i122 1
+L0 1 6
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1742620726.000000
+!s107 mux21_v.v|xnor_gate.v|xnor_gatetb.v|
+Z6 !s90 -reportprogress|300|xnor_gatetb.v|
+!i113 1
+Z7 tCvgOpt 0
+vxnor_gate
+R1
+!i10b 1
+!s100 ::3Y7Ui_ES_dV>;<WN6I91
+R2
+IMa]f?`_=7NDV138NNG2in1
+R3
+R0
+w1742620724
+8xnor_gate.v
+Fxnor_gate.v
+!i122 1
+L0 2 7
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 mux21_v.v|xnor_gate.v|xnor_gatetb.v|
+R6
+!i113 1
+R7
+vxnor_gatetb
+R1
+!i10b 1
+!s100 BPE_R?c09MN`g<TIaPML@0
+R2
+IjTYg[g6>DQ7=jnlUCelnD2
+R3
+R0
+w1742620647
+8xnor_gatetb.v
+Fxnor_gatetb.v
+!i122 1
+L0 2 12
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7

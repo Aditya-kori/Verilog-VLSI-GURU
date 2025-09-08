@@ -1,0 +1,32 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Assignment 8 Procedural Statements/2 Randon Gen
+vtb
+!s110 1747132345
+!i10b 1
+!s100 K=5K@eB[Fbl1Jfi>8<DAc1
+I6bg1E=@^P_UN>B8T;VDMH2
+R0
+w1747132340
+8rand_uniq_20.v
+Frand_uniq_20.v
+!i122 3
+L0 1 22
+VDg1SIo80bB@j0V0VzS_@n1
+OV;L;2021.1;73
+r1
+!s85 0
+31
+!s108 1747132345.000000
+!s107 rand_uniq_20.v|
+!s90 -reportprogress|300|rand_uniq_20.v|
+!i113 1
+tCvgOpt 0

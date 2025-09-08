@@ -1,0 +1,32 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Assignment 7 Fork Synthesis/1
+vtb
+!s110 1746418383
+!i10b 1
+!s100 ^n7_?<Jl5Am9e=X0b7VC:1
+IPzH`66<A?J[SKHXa<V4MU1
+R0
+w1746418285
+8fork.v
+Ffork.v
+!i122 0
+L0 1 16
+VDg1SIo80bB@j0V0VzS_@n1
+OV;L;2021.1;73
+r1
+!s85 0
+31
+!s108 1746418383.000000
+!s107 fork.v|
+!s90 -reportprogress|300|fork.v|
+!i113 1
+tCvgOpt 0

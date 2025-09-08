@@ -1,0 +1,47 @@
+1. What is an array?How to declare an array?
+A: Array is a homogenous collection of data variables.
+	Syntax: 
+			data_type array_name[MSB:LSB];
+
+2. Difference between array and vectors?
+A:	Array 
+	->Array is a homogenous collection of data variables.
+	->Syntax: 
+			data_type array_name[MSB:LSB];
+			ex: reg a[0:5];
+	->In memory array is referred to as Depth.
+	
+	Vectors
+	->Vectors are used to store multiple bits of data.
+	->Syntax:
+			data_type [MSB:LSB]array_name;
+			ex: reg [7:0]a;
+	->In memory vector is referred to as Width.
+
+3. What does reg[7:0] data[15:0]represent?
+	What is name? //data
+	What is the size of the array? //size=16
+	How many locations does array has? //16 locations
+	How many bits are stored in each location? //8 bits
+	How many bits does entire array has? 128 bits
+
+4. What does reg[31:0] data[63:0]represent?
+	What is name? //data
+	What is the size of the array? //size=64
+	How many locations does array has? //64 locations
+	How many bits are stored in each location? //32 bits
+	How many bits does entire array has? 32*64 bits
+
+5. Declare a array by name "mem" whose size is 512, in which each location can store 16 bits?   // [15:0]mem[511:0];
+	Write a logic to assign all the array locations to zero? //[15:0]mem [511:0];
+	Write a logic to assign 458th index of mem array with data 16'hFFFF & other locations zero?
+	//
+
+7. Write the syntax to declare array of vectors.
+A. Syntax: [<vector_size>]<variable_name>[<array_size>]
+
+8. Declare 16KB of memory whose width is 32?
+A. reg[31:0]mem[(16*1024*8)-1:0];
+
+9. Declare a byte addressed memory for 1kB size
+A. [7:0]reg mem[(1024*8)-1:0];

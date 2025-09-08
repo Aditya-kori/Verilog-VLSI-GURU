@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Combinational/XorGate
+vXorGate
+Z1 !s110 1742264893
+!i10b 1
+!s100 L6ST_HZ<@m<B]`A;@77mZ0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ik87LzRbZO;Kj<WCYKmM;F2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1742264030
+8XorGate.v
+FXorGate.v
+!i122 2
+L0 1 7
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1742264893.000000
+!s107 XorGate.v|XorGatetb.v|
+Z6 !s90 -reportprogress|300|XorGatetb.v|
+!i113 1
+Z7 tCvgOpt 0
+n@xor@gate
+vXorGatetb
+R1
+!i10b 1
+!s100 =W>5?_T[?`lcBd>::=6Cd0
+R2
+I9fHZ7CTHbCU4l:P5d<Ia^1
+R3
+R0
+w1742264890
+8XorGatetb.v
+FXorGatetb.v
+!i122 2
+L0 2 12
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 XorGate.v|XorGatetb.v|
+R6
+!i113 1
+R7
+n@xor@gatetb

@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Assignment/1/d
+vha
+Z1 !s110 1742520080
+!i10b 1
+!s100 LXeD7j9F?^BH_=ai1V4Tk0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IViaOGeTS6dE>^@F66l<Fm0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1742520077
+8ha_behav.v
+Fha_behav.v
+!i122 1
+L0 1 8
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1742520080.000000
+!s107 ha_behav.v|ha_tb.v|
+Z6 !s90 -reportprogress|300|ha_tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vha_tb
+R1
+!i10b 1
+!s100 47kT[cm1_9k`lcX1]8N=;3
+R2
+IF13oa=IJ5QIedZ?hMJcNf1
+R3
+R0
+w1742519940
+8ha_tb.v
+Fha_tb.v
+!i122 1
+L0 2 12
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 ha_behav.v|ha_tb.v|
+R6
+!i113 1
+R7

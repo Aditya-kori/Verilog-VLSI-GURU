@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Combinational/XnorGate
+vXnorGate
+Z1 !s110 1742274613
+!i10b 1
+!s100 HY_MN6U:IkF3MLC7:BICW3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IP1Z[iBGl54mo^K]R@9kIW3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1742273897
+8XnorGate.v
+FXnorGate.v
+!i122 0
+L0 1 7
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1742274612.000000
+!s107 XnorGate.v|XnorGatetb.v|
+Z6 !s90 -reportprogress|300|XnorGatetb.v|
+!i113 1
+Z7 tCvgOpt 0
+n@xnor@gate
+vXnorGatetb
+R1
+!i10b 1
+!s100 cUC[0<7dfdM8eK5gHIZPf0
+R2
+ITjSVWAOk<4ozjQdlhJZ:f0
+R3
+R0
+w1742274413
+8XnorGatetb.v
+FXnorGatetb.v
+!i122 0
+L0 2 12
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 XnorGate.v|XnorGatetb.v|
+R6
+!i113 1
+R7
+n@xnor@gatetb

@@ -1,0 +1,53 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Assignment 4 Task & function/c Nbit fa
+vfa
+Z1 !s110 1744691192
+!i10b 1
+!s100 4SWBQRhPKKFWH11>YT^E70
+IIG9WO910^]<<@oek6jECg2
+R0
+w1744691081
+8fa.v
+Ffa.v
+!i122 1
+L0 1 15
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2021.1;73
+r1
+!s85 0
+31
+Z4 !s108 1744691192.000000
+!s107 fa.v|fa_tb.v|
+Z5 !s90 -reportprogress|300|fa_tb.v|
+!i113 1
+Z6 tCvgOpt 0
+vtb
+R1
+!i10b 1
+!s100 VGc;^i2dkGVmbATOdR3Gc2
+IMz=>OL[ZGc[clkZGXNM2H3
+R0
+w1744691180
+8fa_tb.v
+Ffa_tb.v
+!i122 1
+L0 2 15
+R2
+R3
+r1
+!s85 0
+31
+R4
+Z7 !s107 fa.v|fa_tb.v|
+R5
+!i113 1
+R6

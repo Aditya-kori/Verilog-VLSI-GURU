@@ -1,0 +1,3 @@
+List out the various procedural blocks in verilog
+	initial block
+	always block

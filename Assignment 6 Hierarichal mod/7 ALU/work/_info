@@ -1,0 +1,137 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Assignment 6 Hierarichal mod/7 ALU
+vadd32
+Z1 !s110 1745804673
+!i10b 1
+!s100 [IU>@KOhdR36CXT6BzD3V0
+I2ZXBT@>iJ09R`hIM^2e=e2
+R0
+Z2 w1745804671
+Z3 8alu.v
+Z4 Falu.v
+!i122 1
+L0 13 4
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OV;L;2021.1;73
+r1
+!s85 0
+31
+Z7 !s108 1745804672.000000
+!s107 alu.v|
+Z8 !s90 -reportprogress|300|alu.v|
+!i113 1
+Z9 tCvgOpt 0
+valu
+R1
+!i10b 1
+!s100 WZh2oNGMV2T`n]HEXfn8K2
+IU5Z;[8i1fk@NO=<>kl2mh0
+R0
+R2
+R3
+R4
+!i122 1
+L0 28 11
+R5
+R6
+r1
+!s85 0
+31
+R7
+Z10 !s107 alu.v|
+R8
+!i113 1
+R9
+vmul16
+R1
+!i10b 1
+!s100 4Cia9C9hZUE?@SEhJ6l920
+IGHLFX=<[GX6GS2kSlnLGE2
+R0
+R2
+R3
+R4
+!i122 1
+L0 23 4
+R5
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 1
+R9
+vmux32three
+R1
+!i10b 1
+!s100 mLzR3gZ:6mChTmWT<>cbk0
+IMo9f1CS6cZJ`=f^]?9SG@1
+R0
+R2
+R3
+R4
+!i122 1
+L0 7 5
+R5
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 1
+R9
+vmux32two
+R1
+!i10b 1
+!s100 0P7HK^7MIemkeSm34I7k01
+I4N@@NH155_l4gi::SR[691
+R0
+R2
+R3
+R4
+!i122 1
+L0 1 5
+R5
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 1
+R9
+vsub32
+R1
+!i10b 1
+!s100 V]Mh<G4WPS>agi9dhPA1N2
+I<Nf7DVb>zW?b5_k=O__Wj0
+R0
+R2
+R3
+R4
+!i122 1
+L0 18 4
+R5
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 1
+R9

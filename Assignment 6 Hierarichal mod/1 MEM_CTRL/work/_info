@@ -1,0 +1,99 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Assignment 6 Hierarichal mod/1 MEM_CTRL
+vADDR_GEN
+Z1 !s110 1745386263
+!i10b 1
+!s100 HT`<QmYP[?`^jQ<=83jSz1
+ILJ`9A4c>3Tb>2S=OV6_kG0
+R0
+Z2 w1745386141
+Z3 8mem_ctrl.v
+Z4 Fmem_ctrl.v
+!i122 0
+L0 1 4
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OV;L;2021.1;73
+r1
+!s85 0
+31
+Z7 !s108 1745386263.000000
+!s107 mem_ctrl.v|
+Z8 !s90 -reportprogress|300|mem_ctrl.v|
+!i113 1
+Z9 tCvgOpt 0
+n@a@d@d@r_@g@e@n
+vDATA_GEN
+R1
+!i10b 1
+!s100 SAa2PU9a@4UWN[<oE3Kn31
+IO?A8h]6o_mgX7ob4do:ok3
+R0
+R2
+R3
+R4
+!i122 0
+L0 6 4
+R5
+R6
+r1
+!s85 0
+31
+R7
+Z10 !s107 mem_ctrl.v|
+R8
+!i113 1
+R9
+n@d@a@t@a_@g@e@n
+vMEM_CTRL
+R1
+!i10b 1
+!s100 05S^V0aT887l^MENRgNPn1
+I]<:@[_N^]9W@nYW30O@5B3
+R0
+R2
+R3
+R4
+!i122 0
+L0 16 7
+R5
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 1
+R9
+n@m@e@m_@c@t@r@l
+vTIMING_CTRL
+R1
+!i10b 1
+!s100 AaWaG?FZinIn23@ECheLL0
+II@DMcgT<^USjH9UYK2gQ10
+R0
+R2
+R3
+R4
+!i122 0
+L0 11 4
+R5
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 1
+R9
+n@t@i@m@i@n@g_@c@t@r@l

@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Assignment/array add_on
+varray
+!s110 1743069052
+!i10b 1
+!s100 OkfUMJ?Ik8d8A?Gca6?cM0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IjNeLP81AgHKVgXdeNLKzn0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1743069050
+8array_addon.v
+Farray_addon.v
+!i122 25
+L0 1 19
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1743069051.000000
+!s107 array_addon.v|
+!s90 -reportprogress|300|array_addon.v|
+!i113 1
+Z4 tCvgOpt 0
+vrandom
+!s110 1743157543
+!i10b 1
+!s100 N9RXKRzDnHQHiU44ZI;=D0
+R1
+I7[e_]e3M4KLLcn4ff`>Ia2
+R2
+R0
+w1743157541
+8random_gen.v
+Frandom_gen.v
+!i122 86
+L0 1 13
+R3
+r1
+!s85 0
+31
+!s108 1743157543.000000
+!s107 random_gen.v|
+!s90 -reportprogress|300|random_gen.v|
+!i113 1
+R4

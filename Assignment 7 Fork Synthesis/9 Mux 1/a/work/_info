@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Assignment/6 mux 4x1 kmap/a
+vmux41
+Z1 !s110 1742549442
+!i10b 1
+!s100 F<hSgJdTC0jjChJ@B>]e22
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+II>RELjCSbcF4:]>PnJ[Q[3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1742549435
+8mux41_exp.v
+Fmux41_exp.v
+!i122 9
+L0 1 13
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1742549442.000000
+!s107 mux41_exp.v|mux41_tb.v|
+Z6 !s90 -reportprogress|300|mux41_tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vmux41_tb
+R1
+!i10b 1
+!s100 igU6Y9kaA4VL@Fd7<MMZc1
+R2
+IjiL@858AbVJTSOm_UjGB40
+R3
+R0
+w1742548895
+8mux41_tb.v
+Fmux41_tb.v
+!i122 9
+L0 2 13
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 mux41_exp.v|mux41_tb.v|
+R6
+!i113 1
+R7

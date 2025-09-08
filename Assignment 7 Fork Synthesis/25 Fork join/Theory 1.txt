@@ -1,0 +1,45 @@
+25	In the below code, what time will b,c,d will take the values
+		initial begin
+		#5 c=1;
+		#5 b=0;
+		#5 d=c;
+		end
+
+	The b,c & d take the values at time 10,5 & 15 respectively
+
+26 & 27	How many processes are their in the below code? at what time c,b,d assignment will happen?
+		initial begin
+		fork
+			#5 c=1;
+			#5 b=0;
+			#5 d=c;
+		join
+		end
+
+		there are 3 processes, the b,c,d, takes values at time 5 
+
+28	How many processes are their in the below code? at what time c,b,d assignment will happen?
+		initial begin
+		fork
+		begin
+			#5 c=1;
+			#5 b=0;
+			#5 d=c;
+		end
+		join
+		end
+
+		there is one process, The b,c & d take the values at time 10,5 & 15 respectively
+
+29	How many processes are their in the below code? at what time c,b,d assignment will happen?
+		initial begin
+		fork
+		begin
+			#5 c=1;
+			#5 b=0;
+		end
+			#5 d=c;
+		join
+		end
+
+		there are 2 procesess, the c & d takes values at 5, whereas b takes value value at 10

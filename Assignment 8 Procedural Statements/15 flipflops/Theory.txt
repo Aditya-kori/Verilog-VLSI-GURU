@@ -1,0 +1,11 @@
+	How many flip flops does below code infer
+
+	reg q1,q2,q3,a,b;
+	always(@posedge clk) begin
+	q1=d;
+	q2=a;
+	q3=b;
+	end
+
+	The above code infers 3 flipflops
+	Since we are using blocking statements the value is assigned immediately to the LHS

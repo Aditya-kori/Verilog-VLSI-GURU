@@ -1,0 +1,53 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Assignment 7 Fork Synthesis/24 Circuit 4
+vcircuit
+Z1 !s110 1747114705
+!i10b 1
+!s100 2zS3^Mk[mh4:EFR`jjg>A0
+Ilnc]DnYHlYf5?g<hSI4^T3
+R0
+w1747114582
+8circuit.v
+Fcircuit.v
+!i122 2
+L0 1 22
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2021.1;73
+r1
+!s85 0
+31
+Z4 !s108 1747114705.000000
+!s107 circuit.v|tb.v|
+Z5 !s90 -reportprogress|300|tb.v|
+!i113 1
+Z6 tCvgOpt 0
+vtb
+R1
+!i10b 1
+!s100 MXVliU2XBOP?dzZ1JNaAL1
+IEaG2W]9Bi^TM3T2F8nG_13
+R0
+w1747114671
+8tb.v
+Ftb.v
+!i122 2
+L0 2 21
+R2
+R3
+r1
+!s85 0
+31
+R4
+Z7 !s107 circuit.v|tb.v|
+R5
+!i113 1
+R6

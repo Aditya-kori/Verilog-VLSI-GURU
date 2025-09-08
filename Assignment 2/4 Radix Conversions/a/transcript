@@ -1,0 +1,21 @@
+# Reading pref.tcl
+do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:45:46 on Mar 26,2025
+# vlog -reportprogress 300 dec_other.v 
+# -- Compiling module radix
+# 
+# Top level modules:
+# 	radix
+# End time: 15:45:47 on Mar 26,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vsim radix 
+# Start time: 15:45:47 on Mar 26,2025
+# Loading work.radix
+# Octal a=10727
+#  Hexadecimal a=11d7
+#  Decimal a= 4567
+#  Binary a=0001000111010111
+# 
+# End time: 15:48:58 on Mar 26,2025, Elapsed time: 0:03:11
+# Errors: 0, Warnings: 0

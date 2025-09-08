@@ -1,0 +1,13 @@
+a. Module can have 3 possible port directions 
+	i. Input 
+	ii. Output 
+	iii. Inout 
+b. When to declare them as reg and net? 
+	i. Any statement inside always or initial block is called as procedural statement 
+	ii. All the variables in the LHS of procedural statement must be declared as reg. 
+	iii. Any variable that is not a reg, is compulsory net(wire, wand, wor, tri) 1. 95% of cases it is wire 
+c. Why gate level implementation of full adder does not require any reg declaration?
+	In Gate level modelling the design is implemented using gates, since these are cntinuously driven so we declare them as wire datatype
+	
+d. Why data flow implementation of full adder does not require any reg declaration?
+	In Date flow implementation, the statement is assigned in the continuous procedural way, so we need to declare as wire not as reg

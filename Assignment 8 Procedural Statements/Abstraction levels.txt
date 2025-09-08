@@ -1,0 +1,6 @@
+How many abstraction levels are there in verilog?
+	There are 4 abstraction levels
+	1. Switch level
+	2. Gate level
+	3. Dataflow 
+	4. Behavioural

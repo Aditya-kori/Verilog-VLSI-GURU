@@ -1,0 +1,30 @@
+3. What is the error in the following code
+	initial begin
+	assign a=b+c;
+	end
+	Error: We cannot perform continuous assignment inside the procedural block
+
+4. 	initial begin
+		initial begin
+		a=10;
+		end
+	end
+	Error: Initial block cannot be nested inside each other
+
+5.	initial begin
+		always@(b) begin
+			a=b;
+		end
+	end
+	Error: always block cannot be nested inside initial block & each other
+
+6.	initial begin
+		task add();
+		endtask
+	end
+	Error: we cannot declare a task inside a procedural block, we can only call a task inside it
+
+7.	initial begin
+		and g1(a,b,c);
+	end
+	Error: gate instantiations cannot take place inside a procedural blocks

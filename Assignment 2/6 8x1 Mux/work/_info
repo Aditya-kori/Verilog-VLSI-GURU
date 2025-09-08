@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Assignment 2/6 8x1 Mux
+vmux81
+Z1 !s110 1743072528
+!i10b 1
+!s100 Q2TMln2S3h:M@B`aJb7ZF1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Id@HI0Z^L6K:Wg2I8_`7fj0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1743072521
+8mux81.v
+Fmux81.v
+!i122 1
+L0 1 15
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1743072528.000000
+Z6 !s107 mux81.v|mux81_tb.v|
+Z7 !s90 -reportprogress|300|mux81_tb.v|
+!i113 1
+Z8 tCvgOpt 0
+vmux81_tb
+R1
+!i10b 1
+!s100 e;1b<819<`5zkGzi4F<6H1
+R2
+If6?_JT:<91geKzScjCeg13
+R3
+R0
+w1743072468
+8mux81_tb.v
+Fmux81_tb.v
+!i122 1
+L0 2 14
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8

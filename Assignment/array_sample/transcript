@@ -1,0 +1,353 @@
+# Reading pref.tcl
+vlib work
+vlog array_sample.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:27:26 on Mar 25,2025
+# vlog -reportprogress 300 array_sample.v 
+# -- Compiling module tb
+# ** Error: array_sample.v(2): Single value range allowed only in SystemVerilog.
+# ** Error: (vlog-13069) array_sample.v(4): near "begin": syntax error, unexpected begin.
+# ** Error: array_sample.v(4): (vlog-13205) Syntax error found in the scope following 'intial'. Is there a missing '::'?
+# End time: 15:27:26 on Mar 25,2025, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+vlog array_sample.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:27:56 on Mar 25,2025
+# vlog -reportprogress 300 array_sample.v 
+# -- Compiling module tb
+# ** Error: (vlog-13069) array_sample.v(4): near "begin": syntax error, unexpected begin.
+# ** Error: array_sample.v(4): (vlog-13205) Syntax error found in the scope following 'intial'. Is there a missing '::'?
+# End time: 15:27:56 on Mar 25,2025, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+vlog array_sample.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:28:21 on Mar 25,2025
+# vlog -reportprogress 300 array_sample.v 
+# -- Compiling module tb
+# ** Error: (vlog-13069) array_sample.v(5): near "+": syntax error, unexpected '+'.
+# ** Error: array_sample.v(8): (vlog-2730) Undefined variable: 'b'.
+# ** Error: (vlog-13069) array_sample.v(11): near "end": syntax error, unexpected end.
+# End time: 15:28:21 on Mar 25,2025, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+vlog array_sample.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:28:52 on Mar 25,2025
+# vlog -reportprogress 300 array_sample.v 
+# -- Compiling module tb
+# ** Error: array_sample.v(8): (vlog-2730) Undefined variable: 'b'.
+# End time: 15:28:52 on Mar 25,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+vlog array_sample.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:29:09 on Mar 25,2025
+# vlog -reportprogress 300 array_sample.v 
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 15:29:09 on Mar 25,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim array_sample.v
+# OpenFile array_sample.v
+run -all
+# No Design Loaded!
+vsim tb
+# vsim tb 
+# Start time: 15:32:32 on Mar 25,2025
+# Loading work.tb
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$urrandom_range' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /tb File: array_sample.v Line: 7
+vsim tb
+# End time: 15:33:24 on Mar 25,2025, Elapsed time: 0:00:52
+# Errors: 0, Warnings: 1
+# vsim tb 
+# Start time: 15:33:24 on Mar 25,2025
+# Loading work.tb
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$urrandom_range' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /tb File: array_sample.v Line: 7
+run -all
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$urrandom_range'
+#    Time: 0 ps  Iteration: 0  Process: /tb/#INITIAL#5 File: array_sample.v Line: 7
+# a:'{x, x, x, x, x, x, x, x, x, x, 0}
+# b:'{x, x, x, x, x, x, x, x, x, x, 0}
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$urrandom_range'
+#    Time: 0 ps  Iteration: 0  Process: /tb/#INITIAL#5 File: array_sample.v Line: 7
+# a:'{x, x, x, x, x, x, x, x, x, 0, 0}
+# b:'{x, x, x, x, x, x, x, x, x, x, 0}
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$urrandom_range'
+#    Time: 0 ps  Iteration: 0  Process: /tb/#INITIAL#5 File: array_sample.v Line: 7
+# a:'{x, x, x, x, x, x, x, x, 0, 0, 0}
+# b:'{x, x, x, x, x, x, x, x, x, x, 0}
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$urrandom_range'
+#    Time: 0 ps  Iteration: 0  Process: /tb/#INITIAL#5 File: array_sample.v Line: 7
+# a:'{x, x, x, x, x, x, x, 0, 0, 0, 0}
+# b:'{x, x, x, x, x, x, x, x, x, x, 0}
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$urrandom_range'
+#    Time: 0 ps  Iteration: 0  Process: /tb/#INITIAL#5 File: array_sample.v Line: 7
+# a:'{x, x, x, x, x, x, 0, 0, 0, 0, 0}
+# b:'{x, x, x, x, x, x, x, x, x, x, 0}
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$urrandom_range'
+#    Time: 0 ps  Iteration: 0  Process: /tb/#INITIAL#5 File: array_sample.v Line: 7
+# a:'{x, x, x, x, x, 0, 0, 0, 0, 0, 0}
+# b:'{x, x, x, x, x, x, x, x, x, x, 0}
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$urrandom_range'
+#    Time: 0 ps  Iteration: 0  Process: /tb/#INITIAL#5 File: array_sample.v Line: 7
+# a:'{x, x, x, x, 0, 0, 0, 0, 0, 0, 0}
+# b:'{x, x, x, x, x, x, x, x, x, x, 0}
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$urrandom_range'
+#    Time: 0 ps  Iteration: 0  Process: /tb/#INITIAL#5 File: array_sample.v Line: 7
+# a:'{x, x, x, 0, 0, 0, 0, 0, 0, 0, 0}
+# b:'{x, x, x, x, x, x, x, x, x, x, 0}
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$urrandom_range'
+#    Time: 0 ps  Iteration: 0  Process: /tb/#INITIAL#5 File: array_sample.v Line: 7
+# a:'{x, x, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+# b:'{x, x, x, x, x, x, x, x, x, x, 0}
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$urrandom_range'
+#    Time: 0 ps  Iteration: 0  Process: /tb/#INITIAL#5 File: array_sample.v Line: 7
+# a:'{x, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+# b:'{x, x, x, x, x, x, x, x, x, x, 0}
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$urrandom_range'
+#    Time: 0 ps  Iteration: 0  Process: /tb/#INITIAL#5 File: array_sample.v Line: 7
+# a:'{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+# b:'{x, x, x, x, x, x, x, x, x, x, 0}
+vsim tb
+# End time: 15:34:17 on Mar 25,2025, Elapsed time: 0:00:53
+# Errors: 11, Warnings: 1
+# vsim tb 
+# Start time: 15:34:17 on Mar 25,2025
+# Loading work.tb
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$urrandom_range' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /tb File: array_sample.v Line: 7
+run -all
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$urrandom_range'
+#    Time: 0 ps  Iteration: 0  Process: /tb/#INITIAL#5 File: array_sample.v Line: 7
+# a:'{x, x, x, x, x, x, x, x, x, x, 0}
+# b:'{x, x, x, x, x, x, x, x, x, x, 0}
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$urrandom_range'
+#    Time: 0 ps  Iteration: 0  Process: /tb/#INITIAL#5 File: array_sample.v Line: 7
+# a:'{x, x, x, x, x, x, x, x, x, 0, 0}
+# b:'{x, x, x, x, x, x, x, x, x, x, 0}
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$urrandom_range'
+#    Time: 0 ps  Iteration: 0  Process: /tb/#INITIAL#5 File: array_sample.v Line: 7
+# a:'{x, x, x, x, x, x, x, x, 0, 0, 0}
+# b:'{x, x, x, x, x, x, x, x, x, x, 0}
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$urrandom_range'
+#    Time: 0 ps  Iteration: 0  Process: /tb/#INITIAL#5 File: array_sample.v Line: 7
+# a:'{x, x, x, x, x, x, x, 0, 0, 0, 0}
+# b:'{x, x, x, x, x, x, x, x, x, x, 0}
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$urrandom_range'
+#    Time: 0 ps  Iteration: 0  Process: /tb/#INITIAL#5 File: array_sample.v Line: 7
+# a:'{x, x, x, x, x, x, 0, 0, 0, 0, 0}
+# b:'{x, x, x, x, x, x, x, x, x, x, 0}
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$urrandom_range'
+#    Time: 0 ps  Iteration: 0  Process: /tb/#INITIAL#5 File: array_sample.v Line: 7
+# a:'{x, x, x, x, x, 0, 0, 0, 0, 0, 0}
+# b:'{x, x, x, x, x, x, x, x, x, x, 0}
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$urrandom_range'
+#    Time: 0 ps  Iteration: 0  Process: /tb/#INITIAL#5 File: array_sample.v Line: 7
+# a:'{x, x, x, x, 0, 0, 0, 0, 0, 0, 0}
+# b:'{x, x, x, x, x, x, x, x, x, x, 0}
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$urrandom_range'
+#    Time: 0 ps  Iteration: 0  Process: /tb/#INITIAL#5 File: array_sample.v Line: 7
+# a:'{x, x, x, 0, 0, 0, 0, 0, 0, 0, 0}
+# b:'{x, x, x, x, x, x, x, x, x, x, 0}
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$urrandom_range'
+#    Time: 0 ps  Iteration: 0  Process: /tb/#INITIAL#5 File: array_sample.v Line: 7
+# a:'{x, x, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+# b:'{x, x, x, x, x, x, x, x, x, x, 0}
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$urrandom_range'
+#    Time: 0 ps  Iteration: 0  Process: /tb/#INITIAL#5 File: array_sample.v Line: 7
+# a:'{x, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+# b:'{x, x, x, x, x, x, x, x, x, x, 0}
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$urrandom_range'
+#    Time: 0 ps  Iteration: 0  Process: /tb/#INITIAL#5 File: array_sample.v Line: 7
+# a:'{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+# b:'{x, x, x, x, x, x, x, x, x, x, 0}
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:34:47 on Mar 25,2025
+# vlog -reportprogress 300 array_sample.v 
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 15:34:47 on Mar 25,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:34:48 on Mar 25,2025, Elapsed time: 0:00:31
+# Errors: 11, Warnings: 1
+# vsim tb 
+# Start time: 15:34:48 on Mar 25,2025
+# Loading work.tb
+# a:'{x, x, x, x, x, x, x, x, x, x, 86}
+# b:'{x, x, x, x, x, x, x, x, x, x, 86}
+# a:'{x, x, x, x, x, x, x, x, x, 15, 86}
+# b:'{x, x, x, x, x, x, x, x, x, x, 86}
+# a:'{x, x, x, x, x, x, x, x, 12, 15, 86}
+# b:'{x, x, x, x, x, x, x, x, x, x, 86}
+# a:'{x, x, x, x, x, x, x, 96, 12, 15, 86}
+# b:'{x, x, x, x, x, x, x, x, x, x, 86}
+# a:'{x, x, x, x, x, x, 92, 96, 12, 15, 86}
+# b:'{x, x, x, x, x, x, x, x, x, x, 86}
+# a:'{x, x, x, x, x, 69, 92, 96, 12, 15, 86}
+# b:'{x, x, x, x, x, x, x, x, x, x, 86}
+# a:'{x, x, x, x, 31, 69, 92, 96, 12, 15, 86}
+# b:'{x, x, x, x, x, x, x, x, x, x, 86}
+# a:'{x, x, x, 57, 31, 69, 92, 96, 12, 15, 86}
+# b:'{x, x, x, x, x, x, x, x, x, x, 86}
+# a:'{x, x, 79, 57, 31, 69, 92, 96, 12, 15, 86}
+# b:'{x, x, x, x, x, x, x, x, x, x, 86}
+# a:'{x, 66, 79, 57, 31, 69, 92, 96, 12, 15, 86}
+# b:'{x, x, x, x, x, x, x, x, x, x, 86}
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:38:09 on Mar 25,2025
+# vlog -reportprogress 300 array_sample.v 
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 15:38:09 on Mar 25,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:38:10 on Mar 25,2025, Elapsed time: 0:03:22
+# Errors: 0, Warnings: 0
+# vsim tb 
+# Start time: 15:38:10 on Mar 25,2025
+# Loading work.tb
+# a:'{x, x, x, x, x, x, x, x, x, x, 86}
+# a:'{x, x, x, x, x, x, x, x, x, 15, 86}
+# a:'{x, x, x, x, x, x, x, x, 12, 15, 86}
+# a:'{x, x, x, x, x, x, x, 96, 12, 15, 86}
+# a:'{x, x, x, x, x, x, 92, 96, 12, 15, 86}
+# a:'{x, x, x, x, x, 69, 92, 96, 12, 15, 86}
+# a:'{x, x, x, x, 31, 69, 92, 96, 12, 15, 86}
+# a:'{x, x, x, 57, 31, 69, 92, 96, 12, 15, 86}
+# a:'{x, x, 79, 57, 31, 69, 92, 96, 12, 15, 86}
+# a:'{x, 66, 79, 57, 31, 69, 92, 96, 12, 15, 86}
+# b:'{x, x, x, x, x, x, x, x, x, x, 86}
+# b:'{x, x, x, x, x, x, x, x, x, x, 86}
+# b:'{x, x, x, x, x, x, x, x, x, x, 86}
+# b:'{x, x, x, x, x, x, x, x, x, x, 86}
+# b:'{x, x, x, x, x, x, x, x, x, x, 86}
+# b:'{x, x, x, x, x, x, x, x, x, x, 86}
+# b:'{x, x, x, x, x, x, x, x, x, x, 86}
+# b:'{x, x, x, x, x, x, x, x, x, x, 86}
+# b:'{x, x, x, x, x, x, x, x, x, x, 86}
+# b:'{x, x, x, x, x, x, x, x, x, x, 86}
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:38:37 on Mar 25,2025
+# vlog -reportprogress 300 array_sample.v 
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 15:38:37 on Mar 25,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:38:38 on Mar 25,2025, Elapsed time: 0:00:28
+# Errors: 0, Warnings: 0
+# vsim tb 
+# Start time: 15:38:38 on Mar 25,2025
+# Loading work.tb
+# a:'{x, x, x, x, x, x, x, x, x, x, 86}
+# a:'{x, x, x, x, x, x, x, x, x, 15, 86}
+# a:'{x, x, x, x, x, x, x, x, 12, 15, 86}
+# a:'{x, x, x, x, x, x, x, 96, 12, 15, 86}
+# a:'{x, x, x, x, x, x, 92, 96, 12, 15, 86}
+# a:'{x, x, x, x, x, 69, 92, 96, 12, 15, 86}
+# a:'{x, x, x, x, 31, 69, 92, 96, 12, 15, 86}
+# a:'{x, x, x, 57, 31, 69, 92, 96, 12, 15, 86}
+# a:'{x, x, 79, 57, 31, 69, 92, 96, 12, 15, 86}
+# a:'{x, 66, 79, 57, 31, 69, 92, 96, 12, 15, 86}
+# b:'{x, x, x, x, x, x, x, x, x, x, x}
+# b:'{x, x, x, x, x, x, x, x, x, 66, x}
+# b:'{x, x, x, x, x, x, x, x, 79, 66, x}
+# b:'{x, x, x, x, x, x, x, 57, 79, 66, x}
+# b:'{x, x, x, x, x, x, 31, 57, 79, 66, x}
+# b:'{x, x, x, x, x, 69, 31, 57, 79, 66, x}
+# b:'{x, x, x, x, 92, 69, 31, 57, 79, 66, x}
+# b:'{x, x, x, 96, 92, 69, 31, 57, 79, 66, x}
+# b:'{x, x, 12, 96, 92, 69, 31, 57, 79, 66, x}
+# b:'{x, 15, 12, 96, 92, 69, 31, 57, 79, 66, x}
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:39:39 on Mar 25,2025
+# vlog -reportprogress 300 array_sample.v 
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 15:39:39 on Mar 25,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:39:40 on Mar 25,2025, Elapsed time: 0:01:02
+# Errors: 0, Warnings: 0
+# vsim tb 
+# Start time: 15:39:40 on Mar 25,2025
+# Loading work.tb
+# a:'{x, x, x, x, x, x, x, x, x, x, 86}
+# a:'{x, x, x, x, x, x, x, x, x, 15, 86}
+# a:'{x, x, x, x, x, x, x, x, 12, 15, 86}
+# a:'{x, x, x, x, x, x, x, 96, 12, 15, 86}
+# a:'{x, x, x, x, x, x, 92, 96, 12, 15, 86}
+# a:'{x, x, x, x, x, 69, 92, 96, 12, 15, 86}
+# a:'{x, x, x, x, 31, 69, 92, 96, 12, 15, 86}
+# a:'{x, x, x, 57, 31, 69, 92, 96, 12, 15, 86}
+# a:'{x, x, 79, 57, 31, 69, 92, 96, 12, 15, 86}
+# a:'{x, 66, 79, 57, 31, 69, 92, 96, 12, 15, 86}
+# a:'{47, 66, 79, 57, 31, 69, 92, 96, 12, 15, 86}
+# b:'{x, x, x, x, x, x, x, x, x, x, 47}
+# b:'{x, x, x, x, x, x, x, x, x, 66, 47}
+# b:'{x, x, x, x, x, x, x, x, 79, 66, 47}
+# b:'{x, x, x, x, x, x, x, 57, 79, 66, 47}
+# b:'{x, x, x, x, x, x, 31, 57, 79, 66, 47}
+# b:'{x, x, x, x, x, 69, 31, 57, 79, 66, 47}
+# b:'{x, x, x, x, 92, 69, 31, 57, 79, 66, 47}
+# b:'{x, x, x, 96, 92, 69, 31, 57, 79, 66, 47}
+# b:'{x, x, 12, 96, 92, 69, 31, 57, 79, 66, 47}
+# b:'{x, 15, 12, 96, 92, 69, 31, 57, 79, 66, 47}
+# b:'{86, 15, 12, 96, 92, 69, 31, 57, 79, 66, 47}
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:40:26 on Mar 25,2025
+# vlog -reportprogress 300 array_sample.v 
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 15:40:26 on Mar 25,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:40:27 on Mar 25,2025, Elapsed time: 0:00:47
+# Errors: 0, Warnings: 0
+# vsim tb 
+# Start time: 15:40:27 on Mar 25,2025
+# Loading work.tb
+# a:'{47, 66, 79, 57, 31, 69, 92, 96, 12, 15, 86}
+# b:'{86, 15, 12, 96, 92, 69, 31, 57, 79, 66, 47}
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:43:18 on Mar 25,2025
+# vlog -reportprogress 300 array_sample.v 
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 15:43:18 on Mar 25,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:43:19 on Mar 25,2025, Elapsed time: 0:02:52
+# Errors: 0, Warnings: 0
+# vsim tb 
+# Start time: 15:43:19 on Mar 25,2025
+# Loading work.tb
+# a:'{264, 180, 822, 645, 413, 392, 359, 176, 544, 751, 206}
+# b:'{206, 751, 544, 176, 359, 392, 413, 645, 822, 180, 264}
+# End time: 15:46:09 on Mar 25,2025, Elapsed time: 0:02:50
+# Errors: 0, Warnings: 0

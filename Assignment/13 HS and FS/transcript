@@ -1,0 +1,360 @@
+# Reading pref.tcl
+do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:08:49 on Mar 24,2025
+# vlog -reportprogress 300 hs_tb.v 
+# -- Compiling module hs_tb
+# 
+# Top level modules:
+# 	hs_tb
+# End time: 12:08:50 on Mar 24,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vsim hs_tb 
+# Start time: 12:08:50 on Mar 24,2025
+# Loading work.hs_tb
+# ** Error: (vsim-3033) Instantiation of 'hs' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /hs_tb File: hs_tb.v Line: 4
+#         Searched libraries:
+#             D:/VLSI GURU/Assignment/13 HS and FS/work
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./run.do PAUSED at line 3
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:09:45 on Mar 24,2025
+# vlog -reportprogress 300 hs_tb.v 
+# -- Compiling module hs
+# -- Compiling module hs_tb
+# 
+# Top level modules:
+# 	hs_tb
+# End time: 12:09:45 on Mar 24,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim hs_tb 
+# Start time: 12:08:50 on Mar 24,2025
+# Loading work.hs_tb
+# Loading work.hs
+# a=0 b=0 diff=0 borrow=0
+# a=0 b=1 diff=1 borrow=1
+# a=0 b=1 diff=1 borrow=1
+# a=1 b=1 diff=0 borrow=0
+# a=0 b=1 diff=1 borrow=1
+# a=0 b=1 diff=1 borrow=1
+# a=0 b=1 diff=1 borrow=1
+# a=1 b=0 diff=1 borrow=0
+cd {D:\VLSI GURU\Assignment\13 HS and FS\a}
+# Cannot change directory while a simulation is in progress.
+# Use the "quit -sim" command to unload the design first.
+quit -sim
+# End time: 12:44:11 on Mar 24,2025, Elapsed time: 0:35:21
+# Errors: 1, Warnings: 0
+cd {D:\VLSI GURU\Assignment\13 HS and FS\a}
+do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:44:31 on Mar 24,2025
+# vlog -reportprogress 300 fs_tb.v 
+# -- Compiling module hs
+# -- Compiling module fs
+# -- Compiling module fs_tb
+# ** Error: fs_tb.v(6): A begin/end block was found with an empty body.  This is permitted in SystemVerilog, but not permitted in Verilog.  Please look for any stray semicolons.
+# End time: 12:44:31 on Mar 24,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog fs_tb.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:46:01 on Mar 24,2025
+# vlog -reportprogress 300 fs_tb.v 
+# -- Compiling module hs
+# -- Compiling module fs
+# -- Compiling module fs_tb
+# 
+# Top level modules:
+# 	fs_tb
+# End time: 12:46:01 on Mar 24,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim fs_tb 
+# Start time: 12:46:01 on Mar 24,2025
+# Loading work.fs_tb
+# Loading work.fs
+# Loading work.hs
+# a=1 b=0 bin=0 diff=x bout=0
+# a=0 b=0 bin=1 diff=x bout=x
+# a=0 b=0 bin=1 diff=x bout=x
+# a=0 b=1 bin=1 diff=x bout=1
+# a=1 b=0 bin=1 diff=x bout=0
+# a=1 b=0 bin=1 diff=x bout=0
+# a=1 b=0 bin=1 diff=x bout=0
+# a=0 b=1 bin=0 diff=x bout=1
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:47:00 on Mar 24,2025
+# vlog -reportprogress 300 fs_tb.v 
+# -- Compiling module hs
+# -- Compiling module fs
+# -- Compiling module fs_tb
+# 
+# Top level modules:
+# 	fs_tb
+# End time: 12:47:00 on Mar 24,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 12:47:02 on Mar 24,2025, Elapsed time: 0:01:01
+# Errors: 0, Warnings: 0
+# vsim fs_tb 
+# Start time: 12:47:02 on Mar 24,2025
+# Loading work.fs_tb
+# Loading work.fs
+# Loading work.hs
+# a=1 b=0 bin=0 diff=1 bout=0
+# a=0 b=0 bin=1 diff=1 bout=1
+# a=0 b=0 bin=1 diff=1 bout=1
+# a=0 b=1 bin=1 diff=0 bout=1
+# a=1 b=0 bin=1 diff=0 bout=0
+# a=1 b=0 bin=1 diff=0 bout=0
+# a=1 b=0 bin=1 diff=0 bout=0
+# a=0 b=1 bin=0 diff=1 bout=1
+pwd
+# D:/VLSI GURU/Assignment/13 HS and FS/a
+cd {D:\VLSI GURU\Assignment\13 HS and FS\b}
+# Cannot change directory while a simulation is in progress.
+# Use the "quit -sim" command to unload the design first.
+quit -sim
+# End time: 13:00:30 on Mar 24,2025, Elapsed time: 0:13:28
+# Errors: 0, Warnings: 0
+cd {D:\VLSI GURU\Assignment\13 HS and FS\b}
+do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:00:51 on Mar 24,2025
+# vlog -reportprogress 300 fs_tb.v 
+# -- Compiling module hs
+# -- Compiling module fs
+# -- Compiling module fs_tb
+# 
+# Top level modules:
+# 	fs_tb
+# End time: 13:00:51 on Mar 24,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim fs_tb 
+# Start time: 13:00:51 on Mar 24,2025
+# Loading work.fs_tb
+# Loading work.fs
+# Loading work.hs
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (3) for port 'a'. The port definition is at: hs.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /fs_tb/dut/g1 File: fs.v Line: 8
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (3) for port 'b'. The port definition is at: hs.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /fs_tb/dut/g1 File: fs.v Line: 8
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (3) for port 'diff'. The port definition is at: hs.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /fs_tb/dut/g2 File: fs.v Line: 9
+# a=010 b=010 bin=0 diff=zz0 bout=0
+# a=000 b=000 bin=1 diff=zz1 bout=1
+# a=000 b=100 bin=1 diff=zz1 bout=1
+# a=110 b=001 bin=1 diff=zz0 bout=1
+# a=000 b=110 bin=1 diff=zz1 bout=1
+# a=000 b=110 bin=1 diff=zz1 bout=1
+# a=110 b=010 bin=1 diff=zz1 bout=1
+# a=001 b=001 bin=0 diff=zz0 bout=0
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:04:08 on Mar 24,2025
+# vlog -reportprogress 300 fs_tb.v 
+# -- Compiling module fs
+# -- Compiling module hs
+# ** Error: ** while parsing file included at fs_tb.v(1)
+# ** at fs.v(15): (vlog-2730) Undefined variable: 'bin'.
+# -- Compiling module fs_tb
+# End time: 13:04:08 on Mar 24,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog fs_tb.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:05:25 on Mar 24,2025
+# vlog -reportprogress 300 fs_tb.v 
+# -- Compiling module fs
+# -- Compiling module hs
+# -- Compiling module fs_tb
+# 
+# Top level modules:
+# 	fs_tb
+# End time: 13:05:25 on Mar 24,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 13:05:27 on Mar 24,2025, Elapsed time: 0:04:36
+# Errors: 1, Warnings: 3
+# vsim fs_tb 
+# Start time: 13:05:27 on Mar 24,2025
+# Loading work.fs_tb
+# Loading work.fs
+# Loading work.hs
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (3) for port 'a'. The port definition is at: fs.v(12).
+#    Time: 0 ps  Iteration: 0  Instance: /fs_tb/dut/g1 File: fs.v Line: 7
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (3) for port 'b'. The port definition is at: fs.v(12).
+#    Time: 0 ps  Iteration: 0  Instance: /fs_tb/dut/g1 File: fs.v Line: 7
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (3) for port 'diff'. The port definition is at: fs.v(12).
+#    Time: 0 ps  Iteration: 0  Instance: /fs_tb/dut/g2 File: fs.v Line: 8
+# a=010 b=010 bin=0 diff=zz0 bout=0
+# a=000 b=000 bin=1 diff=zz1 bout=1
+# a=000 b=100 bin=1 diff=zz1 bout=1
+# a=110 b=001 bin=1 diff=zz0 bout=1
+# a=000 b=110 bin=1 diff=zz1 bout=1
+# a=000 b=110 bin=1 diff=zz1 bout=1
+# a=110 b=010 bin=1 diff=zz1 bout=1
+# a=001 b=001 bin=0 diff=zz0 bout=0
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:11:04 on Mar 24,2025
+# vlog -reportprogress 300 fs_tb.v 
+# -- Compiling module fs
+# -- Compiling module fs_tb
+# 
+# Top level modules:
+# 	fs_tb
+# End time: 13:11:04 on Mar 24,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 13:11:06 on Mar 24,2025, Elapsed time: 0:05:39
+# Errors: 0, Warnings: 3
+# vsim fs_tb 
+# Start time: 13:11:06 on Mar 24,2025
+# Loading work.fs_tb
+# Loading work.fs
+# Loading work.hs
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (3) for port 'a'. The port definition is at: fs.v(12).
+#    Time: 0 ps  Iteration: 0  Instance: /fs_tb/dut/g1 File: fs.v Line: 8
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (3) for port 'b'. The port definition is at: fs.v(12).
+#    Time: 0 ps  Iteration: 0  Instance: /fs_tb/dut/g1 File: fs.v Line: 8
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (3) for port 'diff'. The port definition is at: fs.v(12).
+#    Time: 0 ps  Iteration: 0  Instance: /fs_tb/dut/g1 File: fs.v Line: 8
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (3) for port 'a'. The port definition is at: fs.v(12).
+#    Time: 0 ps  Iteration: 0  Instance: /fs_tb/dut/g2 File: fs.v Line: 9
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (3) for port 'diff'. The port definition is at: fs.v(12).
+#    Time: 0 ps  Iteration: 0  Instance: /fs_tb/dut/g2 File: fs.v Line: 9
+# a=010 b=010 bin=0 diff=zz0 bout=0
+# a=000 b=000 bin=1 diff=zz1 bout=1
+# a=000 b=100 bin=1 diff=zz1 bout=1
+# a=110 b=001 bin=1 diff=zz0 bout=1
+# a=000 b=110 bin=1 diff=zz1 bout=1
+# a=000 b=110 bin=1 diff=zz1 bout=1
+# a=110 b=010 bin=1 diff=zz1 bout=1
+# a=001 b=001 bin=0 diff=zz0 bout=0
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:11:33 on Mar 24,2025
+# vlog -reportprogress 300 fs_tb.v 
+# -- Compiling module fs
+# -- Compiling module fs_tb
+# 
+# Top level modules:
+# 	fs_tb
+# End time: 13:11:33 on Mar 24,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 13:11:34 on Mar 24,2025, Elapsed time: 0:00:28
+# Errors: 0, Warnings: 5
+# vsim fs_tb 
+# Start time: 13:11:34 on Mar 24,2025
+# Loading work.fs_tb
+# Loading work.fs
+# Loading work.hs
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (3) for port 'a'. The port definition is at: fs.v(12).
+#    Time: 0 ps  Iteration: 0  Instance: /fs_tb/dut/g1 File: fs.v Line: 8
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (3) for port 'b'. The port definition is at: fs.v(12).
+#    Time: 0 ps  Iteration: 0  Instance: /fs_tb/dut/g1 File: fs.v Line: 8
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'diff'.
+#    Time: 0 ps  Iteration: 0  Instance: /fs_tb/dut/g1 File: fs.v Line: 8
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (3) for port 'diff'. The port definition is at: fs.v(12).
+#    Time: 0 ps  Iteration: 0  Instance: /fs_tb/dut/g1 File: fs.v Line: 8
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (3) for port 'a'. The port definition is at: fs.v(12).
+#    Time: 0 ps  Iteration: 0  Instance: /fs_tb/dut/g2 File: fs.v Line: 9
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (3) for port 'diff'. The port definition is at: fs.v(12).
+#    Time: 0 ps  Iteration: 0  Instance: /fs_tb/dut/g2 File: fs.v Line: 9
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./run.do PAUSED at line 3
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:12:58 on Mar 24,2025
+# vlog -reportprogress 300 fs_tb.v 
+# -- Compiling module fs
+# -- Compiling module fs_tb
+# 
+# Top level modules:
+# 	fs_tb
+# End time: 13:12:58 on Mar 24,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim fs_tb 
+# Start time: 13:11:34 on Mar 24,2025
+# Loading work.fs_tb
+# Loading work.fs
+# Loading work.hs
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (3) for port 'a'. The port definition is at: fs.v(12).
+#    Time: 0 ps  Iteration: 0  Instance: /fs_tb/dut/g1 File: fs.v Line: 8
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (3) for port 'b'. The port definition is at: fs.v(12).
+#    Time: 0 ps  Iteration: 0  Instance: /fs_tb/dut/g1 File: fs.v Line: 8
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (3) for port 'diff'. The port definition is at: fs.v(12).
+#    Time: 0 ps  Iteration: 0  Instance: /fs_tb/dut/g1 File: fs.v Line: 8
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (2) for port 'a'. The port definition is at: fs.v(12).
+#    Time: 0 ps  Iteration: 0  Instance: /fs_tb/dut/g2 File: fs.v Line: 9
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (3) for port 'diff'. The port definition is at: fs.v(12).
+#    Time: 0 ps  Iteration: 0  Instance: /fs_tb/dut/g2 File: fs.v Line: 9
+# a=010 b=010 bin=0 diff=zz1 bout=0
+# a=000 b=000 bin=1 diff=zz0 bout=0
+# a=000 b=100 bin=1 diff=zz0 bout=0
+# a=110 b=001 bin=1 diff=zz0 bout=1
+# a=000 b=110 bin=1 diff=zz0 bout=0
+# a=000 b=110 bin=1 diff=zz0 bout=0
+# a=110 b=010 bin=1 diff=zz0 bout=0
+# a=001 b=001 bin=0 diff=zz1 bout=0
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:15:24 on Mar 24,2025
+# vlog -reportprogress 300 fs_tb.v 
+# -- Compiling module hs
+# -- Compiling module fs
+# -- Compiling module fs_tb
+# 
+# Top level modules:
+# 	fs_tb
+# End time: 13:15:25 on Mar 24,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# End time: 13:15:26 on Mar 24,2025, Elapsed time: 0:03:52
+# Errors: 1, Warnings: 10
+# vsim fs_tb 
+# Start time: 13:15:26 on Mar 24,2025
+# Loading work.fs_tb
+# Loading work.fs
+# Loading work.hs
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (3) for port 'a'. The port definition is at: hs.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /fs_tb/dut/g1 File: fs.v Line: 9
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (3) for port 'b'. The port definition is at: hs.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /fs_tb/dut/g1 File: fs.v Line: 9
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (3) for port 'diff'. The port definition is at: hs.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /fs_tb/dut/g1 File: fs.v Line: 9
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (3) for port 'a'. The port definition is at: hs.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /fs_tb/dut/g2 File: fs.v Line: 10
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (3) for port 'diff'. The port definition is at: hs.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /fs_tb/dut/g2 File: fs.v Line: 10
+# a=010 b=010 bin=0 diff=zz0 bout=0
+# a=000 b=000 bin=1 diff=zz1 bout=1
+# a=000 b=100 bin=1 diff=zz1 bout=1
+# a=110 b=001 bin=1 diff=zz0 bout=1
+# a=000 b=110 bin=1 diff=zz1 bout=1
+# a=000 b=110 bin=1 diff=zz1 bout=1
+# a=110 b=010 bin=1 diff=zz1 bout=1
+# a=001 b=001 bin=0 diff=zz0 bout=0
+# End time: 13:17:09 on Mar 24,2025, Elapsed time: 0:01:43
+# Errors: 0, Warnings: 5

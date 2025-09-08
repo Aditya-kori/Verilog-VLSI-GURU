@@ -1,0 +1,423 @@
+# Reading pref.tcl
+do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:31:33 on Mar 24,2025
+# vlog -reportprogress 300 encode_tb.v 
+# -- Compiling module encode
+# ** Error: ** while parsing file included at encode_tb.v(1)
+# ** at encoder.v(1): (vlog-2730) Undefined variable: 's'.
+# ** Error: encoder.v(1): (vlog-13294) Identifier must be declared with a port mode: s.
+# ** Error: ** while parsing file included at encode_tb.v(1)
+# ** at encoder.v(1): (vlog-2730) Undefined variable: 'y'.
+# ** Error: encoder.v(1): (vlog-13294) Identifier must be declared with a port mode: y.
+# -- Compiling module encode_tb
+# ** Error: (vlog-13069) encode_tb.v(4): near "wire": syntax error, unexpected wire, expecting ';' or ','.
+# ** Error: (vlog-13069) encode_tb.v(6): near ",": syntax error, unexpected ',', expecting ';'.
+# ** Error: (vlog-13069) encode_tb.v(7): near "#": syntax error, unexpected '#', expecting ';'.
+# ** Error: (vlog-13069) encode_tb.v(9): near ",": syntax error, unexpected ',', expecting ';'.
+# ** Error: (vlog-13069) encode_tb.v(10): near "#": syntax error, unexpected '#', expecting ';'.
+# ** Error: (vlog-13069) encode_tb.v(12): near ",": syntax error, unexpected ',', expecting ';'.
+# ** Error: (vlog-13069) encode_tb.v(13): near "#": syntax error, unexpected '#', expecting ';'.
+# ** Error: (vlog-13069) encode_tb.v(15): near ",": syntax error, unexpected ',', expecting ';'.
+# ** Error: (vlog-13069) encode_tb.v(16): near "#": syntax error, unexpected '#', expecting ';'.
+# ** Error: (vlog-13069) encode_tb.v(18): near ",": syntax error, unexpected ',', expecting ';'.
+# ** Error: (vlog-13069) encode_tb.v(19): near "#": syntax error, unexpected '#', expecting ';'.
+# ** Error: (vlog-13069) encode_tb.v(22): near "end": syntax error, unexpected end.
+# End time: 16:31:33 on Mar 24,2025, Elapsed time: 0:00:00
+# Errors: 16, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog encode_tb.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:33:33 on Mar 24,2025
+# vlog -reportprogress 300 encode_tb.v 
+# -- Compiling module encode
+# ** Error: ** while parsing file included at encode_tb.v(1)
+# ** at encoder.v(1): (vlog-2730) Undefined variable: 's'.
+# ** Error: encoder.v(1): (vlog-13294) Identifier must be declared with a port mode: s.
+# ** Error: ** while parsing file included at encode_tb.v(1)
+# ** at encoder.v(1): (vlog-2730) Undefined variable: 'y'.
+# ** Error: encoder.v(1): (vlog-13294) Identifier must be declared with a port mode: y.
+# -- Compiling module encode_tb
+# ** Error: (vlog-13069) encode_tb.v(4): near "wire": syntax error, unexpected wire, expecting ';' or ','.
+# ** Error: (vlog-13069) encode_tb.v(6): near ",": syntax error, unexpected ',', expecting ';'.
+# ** Error: (vlog-13069) encode_tb.v(9): near ",": syntax error, unexpected ',', expecting ';'.
+# ** Error: (vlog-13069) encode_tb.v(12): near ",": syntax error, unexpected ',', expecting ';'.
+# ** Error: (vlog-13069) encode_tb.v(15): near ",": syntax error, unexpected ',', expecting ';'.
+# ** Error: (vlog-13069) encode_tb.v(18): near ",": syntax error, unexpected ',', expecting ';'.
+# ** Error: (vlog-13069) encode_tb.v(22): near "end": syntax error, unexpected end.
+# End time: 16:33:33 on Mar 24,2025, Elapsed time: 0:00:00
+# Errors: 11, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog encode_tb.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:34:16 on Mar 24,2025
+# vlog -reportprogress 300 encode_tb.v 
+# -- Compiling module encode
+# -- Compiling module encode_tb
+# ** Error: (vlog-13069) encode_tb.v(4): near "wire": syntax error, unexpected wire, expecting ';' or ','.
+# ** Error: (vlog-13069) encode_tb.v(6): near ",": syntax error, unexpected ',', expecting ';'.
+# ** Error: (vlog-13069) encode_tb.v(9): near ",": syntax error, unexpected ',', expecting ';'.
+# ** Error: (vlog-13069) encode_tb.v(12): near ",": syntax error, unexpected ',', expecting ';'.
+# ** Error: (vlog-13069) encode_tb.v(15): near ",": syntax error, unexpected ',', expecting ';'.
+# ** Error: (vlog-13069) encode_tb.v(18): near ",": syntax error, unexpected ',', expecting ';'.
+# ** Error: (vlog-13069) encode_tb.v(22): near "end": syntax error, unexpected end.
+# End time: 16:34:16 on Mar 24,2025, Elapsed time: 0:00:00
+# Errors: 7, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog encode_tb.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:35:00 on Mar 24,2025
+# vlog -reportprogress 300 encode_tb.v 
+# -- Compiling module encode
+# -- Compiling module encode_tb
+# ** Error: (vlog-13069) encode_tb.v(4): near "wire": syntax error, unexpected wire, expecting ';' or ','.
+# ** Error: (vlog-13069) encode_tb.v(22): near "end": syntax error, unexpected end.
+# End time: 16:35:00 on Mar 24,2025, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog encode_tb.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:35:24 on Mar 24,2025
+# vlog -reportprogress 300 encode_tb.v 
+# -- Compiling module encode
+# -- Compiling module encode_tb
+# ** Error: (vlog-13069) encode_tb.v(4): near "wire": syntax error, unexpected wire, expecting ';' or ','.
+# End time: 16:35:24 on Mar 24,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog encode_tb.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:35:43 on Mar 24,2025
+# vlog -reportprogress 300 encode_tb.v 
+# -- Compiling module encode
+# -- Compiling module encode_tb
+# ** Error: encode_tb.v(8): (vlog-2123) Missing argument for format specification '%b'.
+# ** Error: encode_tb.v(8): (vlog-2123) Missing argument for format specification '%b'.
+# ** Error: encode_tb.v(8): (vlog-2123) Missing argument for format specification '%b'.
+# ** Error: encode_tb.v(11): (vlog-2123) Missing argument for format specification '%b'.
+# ** Error: encode_tb.v(11): (vlog-2123) Missing argument for format specification '%b'.
+# ** Error: encode_tb.v(11): (vlog-2123) Missing argument for format specification '%b'.
+# ** Error: encode_tb.v(14): (vlog-2123) Missing argument for format specification '%b'.
+# ** Error: encode_tb.v(14): (vlog-2123) Missing argument for format specification '%b'.
+# ** Error: encode_tb.v(14): (vlog-2123) Missing argument for format specification '%b'.
+# ** Error: encode_tb.v(17): (vlog-2123) Missing argument for format specification '%b'.
+# ** Error: encode_tb.v(17): (vlog-2123) Missing argument for format specification '%b'.
+# ** Error: encode_tb.v(17): (vlog-2123) Missing argument for format specification '%b'.
+# ** Error: encode_tb.v(20): (vlog-2123) Missing argument for format specification '%b'.
+# ** Error: encode_tb.v(20): (vlog-2123) Missing argument for format specification '%b'.
+# ** Error: encode_tb.v(20): (vlog-2123) Missing argument for format specification '%b'.
+# End time: 16:35:43 on Mar 24,2025, Elapsed time: 0:00:00
+# Errors: 15, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog encode_tb.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:36:00 on Mar 24,2025
+# vlog -reportprogress 300 encode_tb.v 
+# -- Compiling module encode
+# -- Compiling module encode_tb
+# ** Error: encode_tb.v(8): (vlog-2123) Missing argument for format specification '%b'.
+# ** Error: encode_tb.v(8): (vlog-2123) Missing argument for format specification '%b'.
+# ** Error: encode_tb.v(8): (vlog-2123) Missing argument for format specification '%b'.
+# ** Error: encode_tb.v(11): (vlog-2123) Missing argument for format specification '%b'.
+# ** Error: encode_tb.v(11): (vlog-2123) Missing argument for format specification '%b'.
+# ** Error: encode_tb.v(11): (vlog-2123) Missing argument for format specification '%b'.
+# ** Error: encode_tb.v(14): (vlog-2123) Missing argument for format specification '%b'.
+# ** Error: encode_tb.v(14): (vlog-2123) Missing argument for format specification '%b'.
+# ** Error: encode_tb.v(14): (vlog-2123) Missing argument for format specification '%b'.
+# ** Error: encode_tb.v(17): (vlog-2123) Missing argument for format specification '%b'.
+# ** Error: encode_tb.v(17): (vlog-2123) Missing argument for format specification '%b'.
+# ** Error: encode_tb.v(17): (vlog-2123) Missing argument for format specification '%b'.
+# End time: 16:36:00 on Mar 24,2025, Elapsed time: 0:00:00
+# Errors: 12, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog encode_tb.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:37:20 on Mar 24,2025
+# vlog -reportprogress 300 encode_tb.v 
+# -- Compiling module encode
+# -- Compiling module encode_tb
+# 
+# Top level modules:
+# 	encode
+# 	encode_tb
+# End time: 16:37:20 on Mar 24,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim encode_tb 
+# Start time: 16:37:20 on Mar 24,2025
+# Loading work.encode_tb
+# i=000x a=z b=z
+# i=001x a=z b=z
+# i=0010 a=z b=z
+# i=0100 a=z b=z
+# i=0100 a=z b=z
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:38:04 on Mar 24,2025
+# vlog -reportprogress 300 encode_tb.v 
+# -- Compiling module encode
+# -- Compiling module encode_tb
+# 
+# Top level modules:
+# 	encode
+# 	encode_tb
+# End time: 16:38:04 on Mar 24,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 16:38:06 on Mar 24,2025, Elapsed time: 0:00:46
+# Errors: 0, Warnings: 0
+# vsim encode_tb 
+# Start time: 16:38:06 on Mar 24,2025
+# Loading work.encode_tb
+# i=0000 a=z b=z
+# i=0010 a=z b=z
+# i=0010 a=z b=z
+# i=0100 a=z b=z
+# i=0100 a=z b=z
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:40:56 on Mar 24,2025
+# vlog -reportprogress 300 encode_tb.v 
+# -- Compiling module encode
+# -- Compiling module encode_tb
+# ** Error: (vlog-13069) encode_tb.v(18): near ";": syntax error, unexpected ';'.
+# End time: 16:40:56 on Mar 24,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog encode_tb.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:41:39 on Mar 24,2025
+# vlog -reportprogress 300 encode_tb.v 
+# -- Compiling module encode
+# -- Compiling module encode_tb
+# 
+# Top level modules:
+# 	encode
+# 	encode_tb
+# End time: 16:41:40 on Mar 24,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# End time: 16:41:40 on Mar 24,2025, Elapsed time: 0:03:34
+# Errors: 1, Warnings: 0
+# vsim encode_tb 
+# Start time: 16:41:41 on Mar 24,2025
+# Loading work.encode_tb
+# i=001x a=z b=z
+# i=0010 a=z b=z
+# i=0100 a=z b=z
+# i=1000 a=z b=z
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:42:30 on Mar 24,2025
+# vlog -reportprogress 300 encode_tb.v 
+# -- Compiling module encode
+# -- Compiling module encode_tb
+# 
+# Top level modules:
+# 	encode
+# 	encode_tb
+# End time: 16:42:30 on Mar 24,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 16:42:31 on Mar 24,2025, Elapsed time: 0:00:50
+# Errors: 0, Warnings: 0
+# vsim encode_tb 
+# Start time: 16:42:31 on Mar 24,2025
+# Loading work.encode_tb
+# i=0001 a=z b=z
+# i=0010 a=z b=z
+# i=0100 a=z b=z
+# i=1000 a=z b=z
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:44:21 on Mar 24,2025
+# vlog -reportprogress 300 encode_tb.v 
+# -- Compiling module encode
+# -- Compiling module encode_tb
+# ** Error: (vlog-13069) encode_tb.v(19): near "end": syntax error, unexpected end.
+# End time: 16:44:21 on Mar 24,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog encode_tb.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:44:46 on Mar 24,2025
+# vlog -reportprogress 300 encode_tb.v 
+# -- Compiling module encode
+# -- Compiling module encode_tb
+# 
+# Top level modules:
+# 	encode
+# 	encode_tb
+# End time: 16:44:46 on Mar 24,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 16:44:47 on Mar 24,2025, Elapsed time: 0:02:16
+# Errors: 1, Warnings: 0
+# vsim encode_tb 
+# Start time: 16:44:47 on Mar 24,2025
+# Loading work.encode_tb
+# i=0001 a=z b=z
+# i=0010 a=z b=z
+# i=0100 a=z b=z
+# i=1000 a=z b=z
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:46:01 on Mar 24,2025
+# vlog -reportprogress 300 encode_tb.v 
+# -- Compiling module encode
+# -- Compiling module encode_tb
+# 
+# Top level modules:
+# 	encode_tb
+# End time: 16:46:02 on Mar 24,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# End time: 16:46:03 on Mar 24,2025, Elapsed time: 0:01:16
+# Errors: 0, Warnings: 0
+# vsim encode_tb 
+# Start time: 16:46:03 on Mar 24,2025
+# Loading work.encode_tb
+# Loading work.encode
+# i=0000 a=0 b=0
+# i=0001 a=0 b=0
+# i=0010 a=0 b=1
+# i=0100 a=1 b=0
+# i=1000 a=1 b=0
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:50:48 on Mar 24,2025
+# vlog -reportprogress 300 encode_tb.v 
+# -- Compiling module encode
+# -- Compiling module encode_tb
+# 
+# Top level modules:
+# 	encode_tb
+# End time: 16:50:48 on Mar 24,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 16:50:49 on Mar 24,2025, Elapsed time: 0:04:46
+# Errors: 0, Warnings: 0
+# vsim encode_tb 
+# Start time: 16:50:49 on Mar 24,2025
+# Loading work.encode_tb
+# Loading work.encode
+# i=0000 a=0 b=0
+# i=0001 a=0 b=0
+# i=0010 a=0 b=1
+# i=0100 a=1 b=0
+# i=1000 a=1 b=0
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:51:11 on Mar 24,2025
+# vlog -reportprogress 300 encode_tb.v 
+# -- Compiling module encode
+# -- Compiling module encode_tb
+# 
+# Top level modules:
+# 	encode_tb
+# End time: 16:51:11 on Mar 24,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 16:51:12 on Mar 24,2025, Elapsed time: 0:00:23
+# Errors: 0, Warnings: 0
+# vsim encode_tb 
+# Start time: 16:51:12 on Mar 24,2025
+# Loading work.encode_tb
+# Loading work.encode
+# i=0000 a=0 b=0
+# i=0001 a=0 b=0
+# i=0010 a=0 b=1
+# i=0100 a=1 b=0
+# i=1000 a=1 b=0
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:52:15 on Mar 24,2025
+# vlog -reportprogress 300 encode_tb.v 
+# -- Compiling module encode
+# -- Compiling module encode_tb
+# 
+# Top level modules:
+# 	encode_tb
+# End time: 16:52:15 on Mar 24,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 16:52:16 on Mar 24,2025, Elapsed time: 0:01:04
+# Errors: 0, Warnings: 0
+# vsim encode_tb 
+# Start time: 16:52:16 on Mar 24,2025
+# Loading work.encode_tb
+# Loading work.encode
+# i=0000 a=0 b=0
+# i=1000 a=0 b=0
+# i=0010 a=0 b=1
+# i=0100 a=1 b=0
+# i=1000 a=1 b=0
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:53:47 on Mar 24,2025
+# vlog -reportprogress 300 encode_tb.v 
+# -- Compiling module encode
+# -- Compiling module encode_tb
+# 
+# Top level modules:
+# 	encode_tb
+# End time: 16:53:47 on Mar 24,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 16:53:48 on Mar 24,2025, Elapsed time: 0:01:32
+# Errors: 0, Warnings: 0
+# vsim encode_tb 
+# Start time: 16:53:48 on Mar 24,2025
+# Loading work.encode_tb
+# Loading work.encode
+# i=0000 a=0 b=0
+# i=1000 a=0 b=0
+# i=0010 a=0 b=1
+# i=0100 a=1 b=0
+# i=1000 a=1 b=1
+# End time: 17:19:58 on Mar 24,2025, Elapsed time: 0:26:10
+# Errors: 0, Warnings: 0

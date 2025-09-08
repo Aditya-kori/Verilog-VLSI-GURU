@@ -1,0 +1,74 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI GURU/Assignment 6 Hierarichal mod/5 FA structural
+vfa
+Z1 !s110 1745661079
+!i10b 1
+!s100 dY0C1A^KX`Z]hV8<=UnYJ3
+I60cWMmTSa0fK^i1o909C:0
+R0
+w1745468741
+8fa.v
+Ffa.v
+!i122 3
+L0 1 5
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2021.1;73
+r1
+!s85 0
+31
+Z4 !s108 1745661078.000000
+!s107 fa.v|fa_4b.v|fa_4b_tb.v|
+Z5 !s90 -reportprogress|300|fa_4b_tb.v|
+!i113 1
+Z6 tCvgOpt 0
+vfa_4b
+R1
+!i10b 1
+!s100 ]SjzkC7Bn76eUXW7?_Fl^1
+InY25hzg=b575WH3`_;1JV0
+R0
+w1745661027
+8fa_4b.v
+Ffa_4b.v
+!i122 3
+L0 2 14
+R2
+R3
+r1
+!s85 0
+31
+R4
+Z7 !s107 fa.v|fa_4b.v|fa_4b_tb.v|
+R5
+!i113 1
+R6
+vtb
+R1
+!i10b 1
+!s100 W0X1d3gM<3?V:DbUCKa_W1
+ITEeBM0^0i_LZ`hd@=Hm9Q0
+R0
+w1745661068
+8fa_4b_tb.v
+Ffa_4b_tb.v
+!i122 3
+L0 2 15
+R2
+R3
+r1
+!s85 0
+31
+R4
+R7
+R5
+!i113 1
+R6

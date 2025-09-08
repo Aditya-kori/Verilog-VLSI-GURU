@@ -1,0 +1,28 @@
+/*7. Implement factorial using recursive function call 
+a. Implement without using automatic keyword in function prototype 
+Output will be wrong 
+b. Implement using automatic keyword in function prototype 
+Output will be correct 
+c. Understand that, whenever there are recursive function calls, we need to stop that call somewhere. There should be a check where we stop. 
+d. Any recursive function calls, automatic must be used, else output gets overwritten with the final call output.*/
+
+module fact_func;
+reg [4:0]a,b;
+reg [31:0]y;
+function automatic reg [31:0] fact(input reg [4:0]p);begin
+if(p>0)
+fact=p*fact(p-1);
+else
+fact=1;
+end
+endfunction
+
+initial begin
+a=10;
+y=fact(a);
+
+
+end
+endmodule
+
+

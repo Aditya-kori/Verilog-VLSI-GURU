@@ -1,0 +1,9 @@
+What is the synthesis output
+	
+	always(@posegde clk) begin
+		y=a&b;
+		z=x&y;
+	end
+
+
+the above code synthesize to 2 filpflops.

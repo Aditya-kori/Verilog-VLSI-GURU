@@ -1,0 +1,6 @@
+always begin
+clk=~clk;
+end
+
+here a zero delay infinite clk is generated.
+The always block runs infinately fast, with toggling delay 0ns, which is not possible in hardware
