@@ -4,7 +4,7 @@ input [1:0]a,b;
 output y1,y2,y3;
 comparator g1(a[1],b[1],my1,my2,my3); //">" my1,"<" my2,"=" my3
 comparator g2(a[0],b[0],ly1,ly2,ly3);
-and g3(y3,my3,ly3); //~(a1^b1)&~(a0&b0);
+and g3(y3,my3,ly3); //~(a1^b1)&~(a0^b0);
 and g4(lgr,my3,ly1);//~(a1^b1)&(a0&b0');
 or g5(y1,lgr,my1);
 and g6(lsr,my3,ly2);
