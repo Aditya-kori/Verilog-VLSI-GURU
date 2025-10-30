@@ -9,47 +9,55 @@ z2
 !i10f 100
 cModel Technology
 Z0 dD:/VLSI GURU/Combinational/HalfAdder
-vha
-!s110 1742379502
-!i10b 1
-!s100 JS5X=NK@0]SGIU2]7n0^f0
-Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
-I2:=[oXMFZ>@K^0Q6nmBDK1
-Z2 VDg1SIo80bB@j0V0VzS_@n1
+T_opt
+!s110 1761308163
+VEMHheAWb[S5VjTg6_H0=I2
+04 5 4 work ha_tb fast 0
+=2-14169e6d928d-68fb6e03-146-2638
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
 R0
+vha
+Z2 !s110 1761308247
+!i10b 1
+!s100 hT`g[HeR[[boQORf==zDE0
+IRgP;lY68h_kB>;8FOAR^=1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 dC:/My Files/VLSI GURU/Verilog-VLSI-GURU/Combinational/HalfAdder
 w1742378204
 8ha.v
 Fha.v
-!i122 2
-L0 1 6
-Z3 OV;L;2020.1;71
+L0 1
+Z5 OL;L;10.7c;67
 r1
 !s85 0
 31
-!s108 1742379502.000000
-!s107 ha.v|
-!s90 -reportprogress|300|ha.v|
-!i113 1
-Z4 tCvgOpt 0
-vha_tb
-!s110 1742379294
-!i10b 1
-!s100 lkKKLY1B8Qk_9M[laXJ^41
+Z6 !s108 1761308247.000000
+!s107 ha.v|ha_tb.v|
+Z7 !s90 -reportprogress|300|ha_tb.v|
+!i113 0
+Z8 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
 R1
-Io@jKSXVCGZ4mS^ig:eEhY0
+vha_tb
 R2
-R0
+!i10b 1
+!s100 bgf<_nO@2d`IdoPLNkfUl0
+ISn]NdlYQW2EzMNWhC4:BP3
+R3
+R4
 w1742379192
 8ha_tb.v
 Fha_tb.v
-!i122 1
-L0 2 12
-R3
+L0 2
+R5
 r1
 !s85 0
 31
-!s108 1742379294.000000
-!s107 ha.v|ha_tb.v|
-!s90 -reportprogress|300|ha_tb.v|
-!i113 1
-R4
+R6
+Z9 !s107 ha.v|ha_tb.v|
+R7
+!i113 0
+R8
+R1

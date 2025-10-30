@@ -1,5 +1,5 @@
 vlib work
-vlog ha.v
+vlog ha_tb.v
 vsim ha_tb
-add wave -position insertpoint sim:/ha_tb/dut/*
+#add wave -position insertpoint sim:/ha_tb/dut/*
 run -all
